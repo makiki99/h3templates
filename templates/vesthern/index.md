@@ -42,3 +42,4 @@ Vesthern Cross is a giant-sized Jebus Cross where everything is allowed. And whe
     * Disposition: Hostile (4-10)
     * Joining Percent: 100%
     * Join only for money: Disabled
+* Combat turn limit: 100

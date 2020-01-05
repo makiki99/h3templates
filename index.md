@@ -1,4 +1,4 @@
-All templates listed are designed for the Horn of the Abyss modification. Most of them attempt to use the features added to the template format extensively. If you find an issue with one of the templates, please use the [GitHub's issues system](https://github.com/makiki99/h3templates/issues) to report it.
+All templates listed are designed for the Horn of the Abyss modification. Most of them attempt to use the features added to the template format extensively. If you find an issue with the website or one of the templates, please use the [GitHub's issues system](https://github.com/makiki99/h3templates/issues) to report it.
 
 ### Original Templates
 
