@@ -3,6 +3,7 @@
 [Nova Trutina 1.2](./Nova%20Trutina%201.2.zip)
 
 ### Description
+Nova Trutina is a template focused on fast paced gameplay with an emphasis on the balance. The key features of this template are relatively small size and three paths to the opponent. This results in a high contact match, where you have to outplay your opponent through positioning, chaining, and element of surprise.
 
 ### Recommended settings
 * Map size: L
@@ -16,7 +17,7 @@
 * Roads: medium
 * Sim turns: 116
 
-### Template description
+### Template specifications
 
 ![](graph.png)
 
@@ -66,3 +67,4 @@
     * Obelisks
     * Creature dwellings.
 * Banned hero: Tiva. Allowed hero: Adrienne.
+* Combat turn limit: 100
