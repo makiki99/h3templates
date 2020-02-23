@@ -3,6 +3,7 @@ All templates listed are designed for the Horn of the Abyss modification. Most o
 ### Original Templates
 
 * [Nova Trutina](./templates/novatrutina) - A template focused on the fast-paced games that retain a high level of balance.
+* [mt_Trutina](./templates/mt_trutina) - A mirror version of the previous template.
 * [Wasteland Mercenaries](./templates/wastelandmercenaries) - A casual template focusing on recruiting neutral monsters from the four Wasteland zones.
 
 ### Template Hacks
