@@ -35,7 +35,7 @@ Vesthern Cross is a giant-sized Jebus Cross where everything is allowed. And whe
 * Zone 1 is the super-treasure zone.
     * Treasure values: (20000-50000, 10), (50000-70000, 10), (70000-110000, 3)
     * Terrain is always Desert.
-* Every single artifact, spell and secondary skill is disabled. This includes pre-assembled combination artifacts and heroes, and both Resistance and Interference skills.
+* Every single artifact, spell and secondary skill is enabled. This includes pre-assembled combination artifacts and heroes, and both Resistance and Interference skills.
 * Taverns, Mineral Springs and Hermit's Shacks have their maximum per zone increased to 3.
 * The Anarchy setting is enabled.
 * Diplomacy settings are set to the pre 1.6.0 values in all zones:
