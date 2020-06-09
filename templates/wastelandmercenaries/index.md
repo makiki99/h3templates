@@ -2,7 +2,7 @@
 
 ## Wasteland Mercenaries
 
-**NOTE:** This template is work in progress.
+**NOTE:** This template is in a Proof of Concept stage - it was not tested, and as such it may not provide a fun and/or balanced experience.
 
 [Wasteland Mercenaries 0.1](./Wasteland%20Mercenaries%200.1.zip)
 
@@ -25,7 +25,7 @@ This template is split into four main areas: two player areas, the tituar Wastel
 
 ![](graph.png)
 
-* Map size: G
+* Map size: L
 * Zones 10-11 are player's starting zones.
     * Treasure values: (500-3000, 15), (3000-6000, 5)
     * Terrain is corresponding to the factions chosen by the players.
@@ -44,10 +44,10 @@ This template is split into four main areas: two player areas, the tituar Wastel
         * Gold
             * value: 3000
             * frequency: 50
-        * Treasure Chest, Campfire
+        * Treasure Chest
             * value: 5000
             * frequency: 50
-        * Treasure Chest, Campfire
+        * Campfire
             * value: 5000
             * frequency: 50
         * Minor Artifact
@@ -69,5 +69,5 @@ This template is split into four main areas: two player areas, the tituar Wastel
     * Terrain is always Desert.
     * The main town is always of different faction than the one chosen by the players.
     * One of the villages is of the same faction as the red player, while the other is the of the same faction as the blue player.
-    * Monster disposition is set to Savage (10). In other words, they will never join the player.
+    * Monster disposition is set to Savage - and as such, they will never join the player.
 * Combat turn limit: 100
