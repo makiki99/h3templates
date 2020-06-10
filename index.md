@@ -6,6 +6,7 @@ All templates listed are designed for the Horn of the Abyss modification. Most o
 * [mt_Trutina](./templates/mt_trutina) - A mirror version of the previous template.
 * [Gelu's Arena](./templates/gelus_arena) - A template focused on the Sharpshooters - the favourite unit of the titulare Gelu.
 * [Wasteland Mercenaries](./templates/wastelandmercenaries) - A casual template focusing on recruiting neutral monsters from the four Wasteland zones.
+* [One Minute Madness](./templates/one_minute_madness) - A template designed specifically for super short timer settings - the titular one minute timer.
 
 ### Template Hacks
 
