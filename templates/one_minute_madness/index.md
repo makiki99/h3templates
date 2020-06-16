@@ -19,9 +19,9 @@ One Minute Madness is (probably) the first template ever made specifically for o
 * Water: none
 * Monsters: strong
 * Difficulty: 160%
-* Chess timer: 1 min classical or 1+1+1 chess
+* Chess timer: 1 min classical or 1+1+2 chess
 * Roads: medium
-* Sim turns: 117
+* Sim turns: none
 
 ### Template specifications
 
