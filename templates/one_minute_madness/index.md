@@ -4,7 +4,7 @@
 
 **NOTE:** This template is in an Alpha release - it is in progress of being playtested and adjusted for higher amounts of both fun and balance.
 
-[One Minute Madness 0.2](./One%20Minute%20Madness%200.2.zip)
+[One Minute Madness 0.3](./One%20Minute%20Madness%200.3.zip)
 
 [Changelog](changelog.html)
 
@@ -64,8 +64,12 @@ One Minute Madness is (probably) the first template ever made specifically for o
             * value: default
             * frequency: 9999
             * Max per zone: 1
+        * Town Gate
+            * value: 500
+            * frequency: 9999
+            * Max per zone: 1
 * Zones 6 and 8 are wasteland zones.
-    * Treasure values: (1500-3000, 9), (3000-5000, 12), (8000-12000, 3)
+    * Treasure values: (2500-3500, 9), (3000-5000, 16), (8000-12000, 4)
     * Terrain is always Wasteland.
     * Relic class artifacts are disabled in this zone.
     * Treasure Class artifacts have their frequency increased to 225. At most four of them can spawn in this zone.
@@ -77,6 +81,7 @@ One Minute Madness is (probably) the first template ever made specifically for o
         * 1 Imp Cache
         * 1 Medusa Stores
     * The Imp Cache has a reduced object value of 2500.
+    * School of War and School of Magic both have their frequency increased to 200.
     * Derricks are disabled in this zone.
 * Zones 5 and 7 are grass zones.
     * Treasure values: (1500-3000, 12), (3000-6000, 10), (6000-12000, 4)
@@ -93,13 +98,13 @@ One Minute Madness is (probably) the first template ever made specifically for o
     * Treasure values: (3000-6000, 9), (10000-15000, 6), (15000-20000, 1)
     * Terrain is always Desert.
     * Treasure class artifacts are disabled in this zone.
-    * Minor and Major class artifacts have their frequency increased to 300.
+    * Minor and Major class artifacts have their frequency increased to 400.
     * Up to four Pandora's Boxes with 10000 experience each can spawn in this zone. They have the default object value and their frequency is increased to 300.
     * The following creature banks spawn in this zone:
         * 2 Cyclops Stockpiles
         * 2 Wolf Raider Pickets
         * 2 Dragon Fly Hives
-        * 3 Mansions
+        * 3 Churchyards
     * In addition to these, a single Redwood Observatory and two Libraries of Englightment spawn in each of these zones too.
     * Both towns in the zone 1 are of the faction chosen by the red player, while towns in the zone 2 are of the faction chosen by the blue player.
 * Unless specified in the zone's description, the following objects are disabled:
