@@ -3,6 +3,47 @@
 
 ## One Minute Madness - Changelog
 
+### Version 0.4
+
+[Download](./One%20Minute%20Madness%200.4.zip)
+
+#### Zone connections
+
+* Raised the value of certain zone connections.
+    * Zones 1-7, 2-5 (between grass to enemy treasure): 12000
+    * Zones 1-2 (between both treasures): 9000
+    * Rationale: The connections between both halves of the map were undervalued - especially the shortcut connection between grass and the enemy treasure zone. This made red rush far too appealing, while also causing the games to end unsatisfactorily early. Additionally, the low difference between the connection values often made discerning between the connection types impossible. 
+* Fixed the lack of Portal Repulsion between zones 2 and 5.
+
+#### Zones 1 and 2
+
+* Increased the treasure values to (3000-6000, 9), (10000-15000, 6), (15000-20000, 2). It is just an attempt to provide a tiny bit more consistency.
+* Removed Cyclops Stockpiles. The resources granted by this creature bank aren't really a good reward on this template for the difficulty it poses, effectively making this bank worthless.
+
+#### Zones 5 and 7
+
+* Removed Naga Banks. Reasoning is exactly the same as for the Cyclops Stockpiles removal listed above.
+
+#### Zones 6 and 8
+
+* Removed Medusa Stores. Reasoning is again the same as above.
+* Capped the amount of Windmills on this zone to 4. This is set to prevent RMG literally spamming windmills all across the zone on certain rolls, while also not removing them completely.
+
+#### General settings
+
+* Disabled Hill Forts. They had a very minor chance to spawn, and when they did they gave a major advantage to one of the players. They may be reintroduced later on in a more controlled manner.
+
+#### Artifacts
+
+* Banned the following artifacts:
+    * Pendant of Dispassion, Pendant of Second Sight, Pendant of Holiness, Pendant of Life, Pendant of Death, Pendant of Free Will, Sphere of Permamence - most of these are far too situational to ever matter in the gameplay. Being protected from one rarely used spell in FB is far too underwhelming. Out of these artifacts, only the Pendant of Second Sight might be reasonably used - but in practice, Blind is not threatening enough to warrant the existence of this artifact.
+    * Everflowing Crystal Cloak, Ring of Infinite Gems, Everpouring Vial of Mercury, Inexhaustible Cart of Ore, Eversmoking Ring of Sulfur, Inexhaustible Cart of Lumber - there is more than enough of resources that can be found on the ground. All these artifacts are serving just as a clutter.
+    * Orb of the Firmament, Orb of Silt, Orb of Tempestuous Fire - the damage from spells isn't often the game-winning factor, and in the rare cases where it is, these orbs provide an unjust advantage that is hard to counter.
+    * Bow of Elven Cherrywood, Bowstring of the Unicorn's Mane, Angel Feather Arrows - the archery bonus granted by these artifacts is ridicolously inconsequential. While they could be fine if they all were Treasure class artifacts, they are not - the Bowstring is Minor class, while the Arrows are Major class.
+
+#### Minor Text Changes
+* Updated the description to reflect the changes in road and timer recommendations.
+
 ### Version 0.3
 
 [Download](./One%20Minute%20Madness%200.3.zip)

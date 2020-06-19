@@ -4,12 +4,14 @@
 
 **NOTE:** This template is in an Alpha release - it is in progress of being playtested and adjusted for higher amounts of both fun and balance.
 
-[One Minute Madness 0.3](./One%20Minute%20Madness%200.3.zip)
+[One Minute Madness 0.4](./One%20Minute%20Madness%200.4.zip)
 
 [Changelog](changelog.html)
 
 ### Description
 One Minute Madness is (probably) the first template ever made specifically for one minute timers.
+
+Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz - for massive help with playtesting this template and providing ton of valuable insight.
 
 ### Recommended settings
 * Map size: L
@@ -20,7 +22,7 @@ One Minute Madness is (probably) the first template ever made specifically for o
 * Monsters: strong
 * Difficulty: 160%
 * Chess timer: 1 min classical or 1+1+2 chess
-* Roads: medium
+* Roads: slow
 * Sim turns: none
 
 ### Template specifications
@@ -79,7 +81,6 @@ One Minute Madness is (probably) the first template ever made specifically for o
     * The following creature banks spawn in this zone:
         * 1 Black Tower
         * 1 Imp Cache
-        * 1 Medusa Stores
     * The Imp Cache has a reduced object value of 2500.
     * School of War and School of Magic both have their frequency increased to 200.
     * Derricks are disabled in this zone.
@@ -95,7 +96,7 @@ One Minute Madness is (probably) the first template ever made specifically for o
         * 1 Dwarven Treasury
         * 1 Naga Bank
 * Zones 1 and 2 are the treasure zones.
-    * Treasure values: (3000-6000, 9), (10000-15000, 6), (15000-20000, 1)
+    * Treasure values: (3000-6000, 9), (10000-15000, 6), (15000-20000, 2)
     * Terrain is always Desert.
     * Treasure class artifacts are disabled in this zone.
     * Minor and Major class artifacts have their frequency increased to 400.
