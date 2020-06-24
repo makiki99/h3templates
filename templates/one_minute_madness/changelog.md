@@ -3,6 +3,23 @@
 
 ## One Minute Madness - Changelog
 
+### Version 0.5
+
+This release marks the start of the Beta stage of template development.
+
+[Download](./One%20Minute%20Madness%200.5.zip)
+
+#### General settings
+
+* Rearranged the zones and modified the Zones Sparseness settings for higher minimal quality of generations.
+* Banned Relic class artifacts from spawning. While it was almost impossible for them to spawn, there was an extremely low chance of this happening anyway. While Relics may be incorporated in a future version of the template, they currently can provide an undeserved victory by providing one of the players with an extremely powerful artifact.
+* Banned War Machine Factories and Cannon Yards from spawning. They were uninteresting an expensive option, effectively turning them into an interactive obstacle.
+* Updated the template description.
+
+#### Other
+
+* Cleaned up the redundant object rules from zones.
+
 ### Version 0.4
 
 [Download](./One%20Minute%20Madness%200.4.zip)
