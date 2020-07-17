@@ -3,6 +3,14 @@
 
 ## One Minute Madness - Changelog
 
+### Version 0.6a
+
+[Download](./One%20Minute%20Madness%200.6a.zip)
+
+#### General settings
+
+* Banned Boots of Speed. They give a far too immense bonus to movement, resulting in gamewarping advantage. They should have been already banned in 0.6, but due to a bit of forgetfulness this was missed.
+
 ### Version 0.6
 
 [Download](./One%20Minute%20Madness%200.6.zip)

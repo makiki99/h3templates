@@ -4,7 +4,7 @@
 
 **NOTE:** This template is in an Beta release - it is reasonably complete, but there still may be significiant balance issues that weren't discovered during the Alpha stage.
 
-[One Minute Madness 0.6](./One%20Minute%20Madness%200.6.zip)
+[One Minute Madness 0.6a](./One%20Minute%20Madness%200.6a.zip)
 
 [Changelog](changelog.html)
 
@@ -149,7 +149,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Tier 3: Earthquake, Land Mine, Destroy Undead, Hypnotize, Mirth, Misfortune
     * Tier 4: Town Portal, Fly, Slayer, Fire Shield
     * Tier 5: Dimension Door, Magic Mirror
-* Banned Artifacts: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Wayfarer's Boots, Vampire's Cowl, Dead Man's Boots, Amulet of the Undertaker, Ambassador's Sash, Diplomat's Ring, Statesman's Medal, Orb of Driving Rain, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Loins of Legion, Torso of Legion, Arms of Legion, Head of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Endless Sack of Gold, Endless Bag of Gold, Endless Purse of Gold, Ring of Vitality, Rib Cage.
+* Banned Artifacts: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Wayfarer's Boots, Vampire's Cowl, Dead Man's Boots, Amulet of the Undertaker, Ambassador's Sash, Diplomat's Ring, Statesman's Medal, Orb of Driving Rain, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Loins of Legion, Torso of Legion, Arms of Legion, Head of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Endless Sack of Gold, Endless Bag of Gold, Endless Purse of Gold, Ring of Vitality, Rib Cage, Boots of Speed.
 * Banned heroes: Sanya, Malcom, Serena, Ash, Nimbus, Geon, Oris, Tiva, Ayden.
 * Banned skills: Eagle Eye, Learning, First Aid.
 * Combat turn limit: 100
