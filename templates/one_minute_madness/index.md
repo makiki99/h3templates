@@ -4,12 +4,12 @@
 
 **NOTE:** This template is in an Beta release - it is reasonably complete, but there still may be significiant balance issues that weren't discovered during the Alpha stage.
 
-[One Minute Madness 0.5](./One%20Minute%20Madness%200.5.zip)
+[One Minute Madness 0.6](./One%20Minute%20Madness%200.6.zip)
 
 [Changelog](changelog.html)
 
 ### Description
-One Minute Madness is (probably) the first template ever made specifically for one minute timers. Why? Because I can.
+One Minute Madness is (probably) the first template ever made specifically for one minute timers. Why? Because I felt the need to fill this unexplored niche.
 
 Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz - for massive help with playtesting this template and providing ton of valuable insight.
 
@@ -21,9 +21,11 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Water: none
 * Monsters: strong
 * Difficulty: 160%
-* Chess timer: 1 min classical or 1+1+2 chess
+* Chess timer: 1+1+3 chess or 1min classical
 * Roads: slow
 * Sim turns: none
+* Additional rules:
+    * After factions and colors are determined, the red player chooses their hero first.
 
 ### Template specifications
 
@@ -73,37 +75,49 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Zones 6 and 8 are wasteland zones.
     * Treasure values: (2500-3500, 9), (3000-5000, 16), (8000-12000, 4)
     * Terrain is always Wasteland.
-    * Treasure Class artifacts have their frequency increased to 225. At most four of them can spawn in this zone.
-    * Minor Class artifacts have their frequency increased to 300, while their object value is reduced to 4000. At most four of them can spawn in this zone.
-    * A single Pandora's Box containing 5000 xp spawn in this zone.
+    * Treasure Class artifacts have their frequency increased to 275. At most four of them can spawn in this zone.
+    * Minor Class artifacts have their frequency increased to 400, while their object value is reduced to 4000. At most four of them can spawn in this zone.
+    * Two Pandora's Boxes containing 5000 xp each spawn in this zone.
     * The following creature banks spawn in this zone:
         * 1 Black Tower
         * 1 Imp Cache
     * The Imp Cache has a reduced object value of 2500.
-    * School of War and School of Magic both have their frequency increased to 200.
-    * Derricks are disabled in this zone.
+    * Schools of War have their frequency increased to 500, while Schools of Magic have their frequency increased to 300.
+    * Learning stones, Mercenary Camps, Marletto Towers, Star Axes and Gardens of Revelation have all their frequency increased to 700 each.
+    * All resources have their frequency reduced to 40, and the Random Resource object has its frequency reduced to 100.
+    * The amount of Spell Scrolls and Shrines spawning in this zone is limited to the following:
+        * Level 1 scrolls: 3
+        * Level 2 scrolls: 2
+        * Level 3 scrolls: 1
+        * Level 1 shrines: 3
+        * Level 2 shrines: 3
+        * Level 3 shrines: 2
+        * Other levels of both scrolls and shrines are not limited.
+    * Trailblazers, Windmills, Derricks, Prospectors, and Warehouses of any kind are disabled in this zone.
 * Zones 5 and 7 are grass zones.
-    * Treasure values: (1500-3000, 12), (3000-6000, 10), (6000-12000, 4)
+    * Treasure values: (1500-3000, 15), (3000-6000, 11), (6000-12000, 4)
     * Terrain is always Grass.
-    * A single Tavern and a single Stables both spawn in this zone.
-    * Two Pandora's Boxes containing 5000 xp each spawn in this zone.
+    * A single Stables spawn in this zone, with object value increased to 1000.
+    * Water Wheels have their value increased to 1000, and their frequency to 150.
+    * A single Pandora's Box containing 5000 xp spawn in this zone.
     * The following creature banks spawn in this zone:
         * 3 Crypts
         * 1 Churchyard
         * 1 Dwarven Treasury
-        * 1 Naga Bank
 * Zones 1 and 2 are the treasure zones.
-    * Treasure values: (3000-6000, 9), (10000-15000, 6), (15000-20000, 2)
+    * Treasure values: (3000-6000, 8), (10000-15000, 8), (15000-20000, 3)
     * Terrain is always Desert.
     * Treasure class artifacts are disabled in this zone.
-    * Minor and Major class artifacts have their frequency increased to 400.
+    * Minor class artifacts have their frequency increased to 250, while Major class artifacts have their frequency increased to 800.
     * Up to four Pandora's Boxes with 10000 experience each can spawn in this zone. They have the default object value and their frequency is increased to 300.
-    * The following creature banks spawn in this zone:
-        * 2 Cyclops Stockpiles
+    * The following creature banks spawn in this zone
         * 2 Wolf Raider Pickets
         * 2 Dragon Fly Hives
         * 3 Churchyards
     * In addition to these, a single Redwood Observatory and two Libraries of Englightment spawn in each of these zones too.
+    * Wood and Ore cannot appear in this zone, while other magical resources and gold has its frequency reduced to 50. Campfires have their frequency reduced to 75.
+    * Treasure Chests have their frequency increased to 1500.
+    * Windmills and Warehouses of any kind are banned from appearing in this zone.
     * Both towns in the zone 1 are of the faction chosen by the red player, while towns in the zone 2 are of the faction chosen by the blue player.
 * Unless specified in the zone's description, the following objects are disabled:
     * Creature Banks
@@ -128,8 +142,14 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Relic class artifacts
     * War Machine Factories
     * Cannon Yards
-* Banned Spells: Fly, Disguise, Dimension Door, Town Portal, Protection from Water, View Air, View Earth, Remove Obstacle, Earthquake, Land Mine, Fire Shield, Slayer and Magic Mirror.
-* Banned Artifacts: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Wayfarer's Boots, Vampire's Cowl, Dead Man's Boots, Amulet of the Undertaker, Ambassador's Sash, Diplomat's Ring, Statesman's Medal, Orb of Driving Rain, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Loins of Legion, Torso of Legion, Arms of Legion, Head of Legion.
+    * Refugee Camps
+* Banned Spells: 
+    * Tier 1: Protection from Water, View Air, View Earth
+    * Tier 2: Disguise, Remove Obstacle
+    * Tier 3: Earthquake, Land Mine, Destroy Undead, Hypnotize, Mirth, Misfortune
+    * Tier 4: Town Portal, Fly, Slayer, Fire Shield
+    * Tier 5: Dimension Door, Magic Mirror
+* Banned Artifacts: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Wayfarer's Boots, Vampire's Cowl, Dead Man's Boots, Amulet of the Undertaker, Ambassador's Sash, Diplomat's Ring, Statesman's Medal, Orb of Driving Rain, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Loins of Legion, Torso of Legion, Arms of Legion, Head of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Endless Sack of Gold, Endless Bag of Gold, Endless Purse of Gold, Ring of Vitality, Rib Cage.
 * Banned heroes: Sanya, Malcom, Serena, Ash, Nimbus, Geon, Oris, Tiva, Ayden.
 * Banned skills: Eagle Eye, Learning, First Aid.
 * Combat turn limit: 100

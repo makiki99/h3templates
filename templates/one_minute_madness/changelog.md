@@ -3,6 +3,72 @@
 
 ## One Minute Madness - Changelog
 
+### Version 0.6
+
+[Download](./One%20Minute%20Madness%200.6.zip)
+
+#### General settings
+
+* Artifacts:
+    * Banned the Necklace of Swiftness. This is hands down the best Treasure class artifact in the game, with the ability to trivialize some fights. Additionally, in combination with other +speed artifacts, this provides a game-warping advantage to a player, nearly winning the game on the spot.
+    * Banned Charm of Mana and Talisman of Mana. The effect of these two artifacts is weak, and banning them has an additional effect of preventing the assembly of Wizard's Well.
+    * Banned Endless Sack of Gold, Endless Bag of Gold and Endless Purse of Gold. These three artifacts are cluttering the pool of Major class artifacts, while being an unappealing objective to go for. While they can provide an advantage in case of a long game, they don't provide a power boost the Major class artifacts are supposed to do.
+    * Banned Ring of Vitality. The +hp effect is actually a strong effect on this template, due to the size and scaling of tier 1 and tier 2 powerstacks - a bit strong for a Treasure class artifacts. In itself it would be fine though, but the possibility of assembling a game-warping Elixir of Life forces a ban on at least one of its elements.
+    * Banned Rib Cage. The sole purpose of this ban is to prevent the possibility of assembling Armor of the Damned.
+* Objects:
+    * Banned Refugee Camps from spawning. They were the only additional army-giving object that I have missed. While these don't really provide that big of an advantage most of the time, they are still able to provide a player with an extra Archangel or Black Dragon, which is massive boost for relatively low opportunity cost. There is also an issue with their RNG state not being preserved through saves. If a crash happens during 121, and the save from 117 has to be loaded, on the next week the unit in the camp will be different.
+    * Banned Warrior's Tombs. They are objects with an extremely random effect, sometimes even resulting in a relic artifact drop.
+* Spells:
+    * Fixed the lack of ban on the Disguise spell.
+    * Banned the spells Destroy Undead, Hypnotize, Mirth and Misfortune. Most of the Tier 3 spells are extremely weak and/or situational, but they also house important to the metagame Antimagic and Protection From Earth. This change should also help out the Fortress and Stronghold, which are limited to the Tier 3 guild.
+* Heroes:
+    * Banned Straker, Ulfretin and Piquedram. These three heroes, if they will show up as the second hero, put the player at a massive disadvantage, effectively punishing player for being unlucky.
+* Adjusted the Zones Sparseness setting again in hopes to improve the zone placement.
+* Slightly reworded the template description.
+
+#### Zone connections
+* The connections leading from the starting zone (5-9, 6-9, 7-10, 8-10) have their value reduced to 2000.
+
+#### Zones 1 and 2
+
+* Modified the treasure values to (3000-6000, 8), (10000-15000, 8), (15000-20000, 3). It is just a simple minor adjustment to improve the quality of this zone's generation.
+* Removed Windmills and Warehouses of any kind from this zone. They were a close to being just an interactive obstacle in this zone.
+* Increased the frequency of the Major class artifacts to 800, while decreasing the frequency of the Minor artifacts of 250. Major class artifacts were a little bit too rare, and this change is set to improve this.
+* Banned Wood and Ore from spawning in this zone, while reducing the frequency of each magical resource and Gold to 50. Additionally, the frequency of Campfires was reduced to 75. In exchange, the frequency of Treasure Chests was increased to 1500. The extra resources were cluttering the treasure zones effectively reducing the amount of interesting objectives.
+* Increased the frequency of Treasure Chests to 1500. While it is close to being "just another resource", the amount of gold given by this is noticeable - and it can be exchanged into XP. As such, it is an interesting objective to aim for when going through the desert.
+
+#### Zones 6 and 8
+
+Most of the changes in this zone are designed towards differentiating it from the grass zone. After this update, the wasteland zone will be far more focused on stats and XP, while having a significiantly reduced amount of resources.
+* Disabled Windmills, Prospectors, and Warehouses of any kind in this zone.
+* Increased the frequency of the School of Wars to 500, and increased its value to 1500.
+* Increased the frequency of Schools of Magic to 300, and increased their value to 1500.
+* Increased the amount of 5000 XP Pandora's Boxes to 2.
+* Reduced the frequency of all resources to 40, and the Random Resource object to 100.
+* Learning stones, Mercenary Camps, Marletto Towers, Star Axes and Gardens of Revelation have all their frequency increased to 700 each.
+* Increased the frequency of Minor class artifacts to 400, and the Treasure class artifacts to 275.
+* Because of the previous restrictions causing the RMG to suddenly overdo on the shrines and scrolls, the amount of Spell Scrolls and Shrines spawning in this zone is limited to the following:
+    * Level 1 scrolls: 3
+    * Level 2 scrolls: 2
+    * Level 3 scrolls: 1
+    * Level 1 shrines: 3
+    * Level 2 shrines: 3
+    * Level 3 shrines: 2
+    * Other levels of both scrolls and shrines are not limited.
+
+#### Zones 5 and 7
+
+* Slightly bumped the treasure values to (1500-3000, 15), (3000-6000, 11), (6000-12000, 4) to slightly increase amount of resources spawned.
+* Bumped up the zone's size setting to 17 in an attempt to improve the quality of generation.
+* Removed Taverns. Their object value was too low to even spawn with any consistency, and even then - they would be difficult to utilize meaningfully in one minute timers.
+* Increased the object value of Stables to 1000. The default value of 200 was far too low for this to spawn consistently under this zone's treasure values.
+* Reduced the amount of 5000 XP Pandora's Boxes to 1. This is to keep the status quo with the amount of experience on the map after the wasteland got an extra box.
+* Increased the frequency of Water Wheels to 150, and their value to 1000. This is done to provide more long-term income options.
+
+#### Rule and text changes
+
+* Made the 1+1+3 timer the default, and reflected this in the template description.
+
 ### Version 0.5
 
 This release marks the start of the Beta stage of template development.
