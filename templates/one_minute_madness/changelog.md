@@ -3,6 +3,14 @@
 
 ## One Minute Madness - Changelog
 
+### Version 0.6b
+
+[Download](./One%20Minute%20Madness%200.6b.zip)
+
+#### Zones 5 and 7
+
+* Reverted the size value of this zone to 16 to fix a bug introduced by this change.
+
 ### Version 0.6a
 
 [Download](./One%20Minute%20Madness%200.6a.zip)

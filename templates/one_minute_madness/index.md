@@ -4,7 +4,7 @@
 
 **NOTE:** This template is in an Beta release - it is reasonably complete, but there still may be significiant balance issues that weren't discovered during the Alpha stage.
 
-[One Minute Madness 0.6a](./One%20Minute%20Madness%200.6a.zip)
+[One Minute Madness 0.6b](./One%20Minute%20Madness%200.6b.zip)
 
 [Changelog](changelog.html)
 
