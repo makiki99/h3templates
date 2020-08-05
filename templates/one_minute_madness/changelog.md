@@ -3,6 +3,31 @@
 
 ## One Minute Madness - Changelog
 
+### Version 1.0
+
+This update marks the end of the beta phase. Starting from this version, this template is considered fully viable for competitive play.
+
+[Download](./One%20Minute%20Madness%201.0.zip)
+
+#### General Settings
+
+* Completely changed the hero banlist. The Eagle Eye heroes were unbanned, while Solmyr, Deemer, Aislinn and Giselle were banned. The Eagle Eye heroes aren't as bad as one might think on this template - many of them have Magic Arrow as the starting spell, resulting in being effective in the scout wars. Solmyr, Deemer and Aislinn are extraordinarily powerful from the get go - not only they are dominating as main heroes, but also picking them up in the midgame makes for waaaaaay too easy and too powerful poking heroes. Giselle can just invalidate magic heroes on the spot, making her an unhealthy addition to the metagame.
+* Adjusted the Rock Blocks Radius and Zones Sparseness settings again.
+
+#### Zones 1 and 2
+
+* Changed the treasure values to (3000-6000, 6), (10000-16000, 12), (12000-20000, 6). This was done to help with spawning all the objects that should be guaranteed to spawn in this zone. While the numbers may suggest that desert is far richer than before, it is not the case.
+* Forced the amount of the 10000 XP Pandora Boxes to 2. They are important enough objective that they need to spawn in a more stable way, and this change is meant to help with doing so.
+
+#### Zones 5 and 7
+
+* Reduced the size of this zone by 1. This is done to avoid bugged
+* To offset the change above, the treasure values were slightly bumped to (1500-3000, 16), (3000-6000, 11), (6000-12000, 4).
+
+#### Zones 9 and 10
+
+* To offset the slightly smaller grass zone, the treasure values are slightly bumped to (500-3000, 38)
+
 ### Version 0.6b
 
 [Download](./One%20Minute%20Madness%200.6b.zip)

@@ -2,14 +2,14 @@
 
 ## One Minute Madness
 
-**NOTE:** This template is in an Beta release - it is reasonably complete, but there still may be significiant balance issues that weren't discovered during the Alpha stage.
-
-[One Minute Madness 0.6b](./One%20Minute%20Madness%200.6b.zip)
+[One Minute Madness 1.0](./One%20Minute%20Madness%201.0.zip)
 
 [Changelog](changelog.html)
 
 ### Description
-One Minute Madness is (probably) the first template ever made specifically for one minute timers. Why? Because I felt the need to fill this unexplored niche.
+One Minute Madness is (probably) the first template ever made specifically for one minute turn timers.
+
+Players start in a monsterless zone with lots of resources and mines. This zone is connected with a grass zone, and a wasteland zone. The grass zone mostly provides more resources, while the wasteland zone is focused on stat improvements for the hero. Both zones are also connected to the desert, which contains two villages of the player's faction, many creature banks, and powerful statboosters in form of major artifacts and Libraries of Enlightment. The grass zone contains a shortcut portal to the opponent's desert, providing an option of surprise attacks. The starting zones and desert are additionally connected through the town gates, granting additional mobility to the player.
 
 Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz - for massive help with playtesting this template and providing ton of valuable insight.
 
@@ -24,8 +24,6 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Chess timer: 1+1+3 chess or 1min classical
 * Roads: slow
 * Sim turns: none
-* Additional rules:
-    * After factions and colors are determined, the red player chooses their hero first.
 
 ### Template specifications
 
@@ -33,7 +31,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 
 * Map size: L
 * Zones 9 and 10 are player starting zones.
-    * Treasure values: (500-3000, 36)
+    * Treasure values: (500-3000, 38)
     * Terrain is corresponding to the towns chosen by the players.
      * Only a subset of objects is allowed to spawn in these zones:
         * Wood, Ore:
@@ -95,7 +93,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * Other levels of both scrolls and shrines are not limited.
     * Trailblazers, Windmills, Derricks, Prospectors, and Warehouses of any kind are disabled in this zone.
 * Zones 5 and 7 are grass zones.
-    * Treasure values: (1500-3000, 15), (3000-6000, 11), (6000-12000, 4)
+    * Treasure values: (1500-3000, 16), (3000-6000, 11), (6000-12000, 4)
     * Terrain is always Grass.
     * A single Stables spawn in this zone, with object value increased to 1000.
     * Water Wheels have their value increased to 1000, and their frequency to 150.
@@ -105,16 +103,16 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * 1 Churchyard
         * 1 Dwarven Treasury
 * Zones 1 and 2 are the treasure zones.
-    * Treasure values: (3000-6000, 8), (10000-15000, 8), (15000-20000, 3)
+    * Treasure values: (3000-6000, 6), (10000-16000, 12), (12000-20000, 6)
     * Terrain is always Desert.
     * Treasure class artifacts are disabled in this zone.
     * Minor class artifacts have their frequency increased to 250, while Major class artifacts have their frequency increased to 800.
-    * Up to four Pandora's Boxes with 10000 experience each can spawn in this zone. They have the default object value and their frequency is increased to 300.
+    * Two Pandora's Boxes with 10000 experience each spawn in this zone. In case of a very small desert, one or both of the boxes may be missing
     * The following creature banks spawn in this zone
         * 2 Wolf Raider Pickets
         * 2 Dragon Fly Hives
         * 3 Churchyards
-    * In addition to these, a single Redwood Observatory and two Libraries of Englightment spawn in each of these zones too.
+    * In addition to these, a single Redwood Observatory and two Libraries of Englightment spawn in each of these zones too. In case of a very small desert, one of the libraries may be missing.
     * Wood and Ore cannot appear in this zone, while other magical resources and gold has its frequency reduced to 50. Campfires have their frequency reduced to 75.
     * Treasure Chests have their frequency increased to 1500.
     * Windmills and Warehouses of any kind are banned from appearing in this zone.
@@ -149,7 +147,11 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Tier 3: Earthquake, Land Mine, Destroy Undead, Hypnotize, Mirth, Misfortune
     * Tier 4: Town Portal, Fly, Slayer, Fire Shield
     * Tier 5: Dimension Door, Magic Mirror
-* Banned Artifacts: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Wayfarer's Boots, Vampire's Cowl, Dead Man's Boots, Amulet of the Undertaker, Ambassador's Sash, Diplomat's Ring, Statesman's Medal, Orb of Driving Rain, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Loins of Legion, Torso of Legion, Arms of Legion, Head of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Endless Sack of Gold, Endless Bag of Gold, Endless Purse of Gold, Ring of Vitality, Rib Cage, Boots of Speed.
-* Banned heroes: Sanya, Malcom, Serena, Ash, Nimbus, Geon, Oris, Tiva, Ayden.
+* Banned Artifacts: 
+    * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness, Pendant of Second Sight, Bow of Elven Cherrywood 
+    * Minor: Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
+    * Major: Boots of Speed, Dead Man's Boots, Ambassador's Sash, Wayfarer's Boots, Diplomat's Ring, Statesman's Medal, Orb of Silt, Orb of the Firmament, Orb of Driving Rain, Orb of Tempestuous Fire, Arms of Legion, Head of Legion, Endless Bag of Gold, Endless Purse of Gold, Pendant of Negativity, Angel Feather Arrows, Ring of Infinite Gems, Eversmoking Ring of Sulfur, Everpouring Vial of Mercury, Everflowing Crystal Cloak
+    * Relic: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Endless Sack of Gold
+* Banned heroes: Ulfretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle
 * Banned skills: Eagle Eye, Learning, First Aid.
 * Combat turn limit: 100
