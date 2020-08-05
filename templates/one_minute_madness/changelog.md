@@ -211,7 +211,7 @@ This release marks the start of the Beta stage of template development.
 
 #### Spells
 
-* Banned the following spells: Protection from Water, View Air, View Earth, Remove Obstacle, Earthquake, Land Mine, Fire Shield, Slayer and Magic Mirror. Most of these spells are far too niche and situational, and are effectively a waste of a precious spell slot in the Mage's Guild. The excaption are View Air and View Earth spells, which are banned because of two reasons - they are relatively slow to use, and they are giving a large amount of information for a low mana cost. There is also an exploit that allows to inspect the generated map even after the timer ends. This exploit is a non-issue on longer time controls, but on the one minute timer setting it is definitely unhealthy.
+* Banned the following spells: Protection from Water, View Air, View Earth, Remove Obstacle, Earthquake, Land Mine, Fire Shield, Slayer and Magic Mirror. Most of these spells are far too niche and situational, and are effectively a waste of a precious spell slot in the Mage's Guild. The exception are View Air and View Earth spells, which are banned because of two reasons - they are relatively slow to use, and they are giving a large amount of information for a low mana cost. There is also an exploit that allows to inspect the generated map even after the timer ends. This exploit is a non-issue on longer time controls, but on the one minute timer setting it is definitely unhealthy.
 
 #### Heroes:
 
