@@ -21,7 +21,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Water: none
 * Monsters: strong
 * Difficulty: 160%
-* Chess timer: 1+1+3 chess or 1min classical
+* Chess timer: 1+1+3 or 1min classical
 * Roads: slow
 * Sim turns: none
 
