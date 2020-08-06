@@ -21,7 +21,7 @@ This update marks the end of the beta phase. Starting from this version, this te
 
 #### Zones 5 and 7
 
-* Reduced the size of this zone by 1. This is done to avoid bugged
+* Reduced the size of this zone by 1. This is done to avoid bugged map generations.
 * To offset the change above, the treasure values were slightly bumped to (1500-3000, 16), (3000-6000, 11), (6000-12000, 4).
 
 #### Zones 9 and 10
