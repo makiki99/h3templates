@@ -63,7 +63,7 @@ This update marks the end of the beta phase. Starting from this version, this te
     * Fixed the lack of ban on the Disguise spell.
     * Banned the spells Destroy Undead, Hypnotize, Mirth and Misfortune. Most of the Tier 3 spells are extremely weak and/or situational, but they also house important to the metagame Antimagic and Protection From Earth. This change should also help out the Fortress and Stronghold, which are limited to the Tier 3 guild.
 * Heroes:
-    * Banned Straker, Ulfretin and Piquedram. These three heroes, if they will show up as the second hero, put the player at a massive disadvantage, effectively punishing player for being unlucky.
+    * Banned Straker, Ufretin and Piquedram. These three heroes, if they will show up as the second hero, put the player at a massive disadvantage, effectively punishing player for being unlucky.
 * Adjusted the Zones Sparseness setting again in hopes to improve the zone placement.
 * Slightly reworded the template description.
 
