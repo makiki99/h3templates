@@ -24,6 +24,8 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Chess timer: 1+1+3 or 1min classical
 * Roads: slow
 * Sim turns: none
+* Additional rules:
+    * The early encounter restart is applying only until 115, even on the slow roads. (Standard is until 117 on slow roads)
 
 ### Template specifications
 
