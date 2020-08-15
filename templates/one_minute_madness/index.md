@@ -2,7 +2,7 @@
 
 ## One Minute Madness
 
-[One Minute Madness 1.0](./One%20Minute%20Madness%201.0.zip)
+[One Minute Madness 1.1](./One%20Minute%20Madness%201.1.zip)
 
 [Changelog](changelog.html)
 
@@ -103,7 +103,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * 1 Churchyard
         * 1 Dwarven Treasury
 * Zones 1 and 2 are the treasure zones.
-    * Treasure values: (3000-6000, 6), (10000-16000, 12), (12000-20000, 6)
+    * Treasure values: (3000-6000, 7), (10000-16000, 12), (12000-20000, 6)
     * Terrain is always Desert.
     * Treasure class artifacts are disabled in this zone.
     * Minor class artifacts have their frequency increased to 250, while Major class artifacts have their frequency increased to 800.
@@ -145,7 +145,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Tier 1: Protection from Water, View Air, View Earth
     * Tier 2: Disguise, Remove Obstacle
     * Tier 3: Earthquake, Land Mine, Destroy Undead, Hypnotize, Mirth, Misfortune
-    * Tier 4: Town Portal, Fly, Slayer, Fire Shield
+    * Tier 4: Armageddon, Town Portal, Fly, Slayer, Fire Shield, Sorrow, Counterstrike
     * Tier 5: Dimension Door, Magic Mirror
 * Banned Artifacts: 
     * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness, Pendant of Second Sight, Bow of Elven Cherrywood 

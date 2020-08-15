@@ -3,6 +3,23 @@
 
 ## One Minute Madness - Changelog
 
+### Version 1.1
+
+[Download](./One%20Minute%20Madness%201.1.zip)
+
+#### General Settings
+
+* Banned Armageddon, Counterstrike, and Sorrow spells. Armageddon is nearly impossible to counter on this template - the only reasonable way to do so is to kill the opposing armageddon-resistant units, or preemptively cast Antimagic or Mass Protection from Fire. Each of these options requires outspeeding the opponent and having a strong starting placement - and even then, you have to deal with the fact that opponent has many other options. Counterstrike and Sorrow are simply far too weak to warrant polluting the pool of tier 4 spells.
+
+#### Zones 1 and 2
+
+* Performed a minor bump of the treasure value, up to (3000-6000, 7), (10000-16000, 12), (12000-20000, 6). This was done to add a very slightly higher amount of artifacts on this map.
+* Put a cap of 3 Shrines of Magic Thoughts (tier 3 spells) per desert. In some cases, the generated amounts of these shrines was ridicolous, and this cap is put in place to prevent the most extreme generations.
+
+#### Zones 6 and 8
+
+* Reduced the frequency of Star Axes and Gardens of Revelation to 600 to slightly reduce the typical amount of magic stats you can usually reach.
+
 ### Version 1.0
 
 This update marks the end of the beta phase. Starting from this version, this template is considered fully viable for competitive play.
