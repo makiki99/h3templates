@@ -115,8 +115,9 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * 2 Dragon Fly Hives
         * 3 Churchyards
     * In addition to these, a single Redwood Observatory and two Libraries of Englightment spawn in each of these zones too. In case of a very small desert, one of the libraries may be missing.
-    * Wood and Ore cannot appear in this zone, while other magical resources and gold has its frequency reduced to 50. Campfires have their frequency reduced to 75.
+    * Wood and Ore cannot appear in this zone, while other magical resources and gold have their frequency reduced to 50. Campfires have their frequency reduced to 75.
     * Treasure Chests have their frequency increased to 1500.
+    * At most three Tier 3 shrines can spawn in this zone.
     * Windmills and Warehouses of any kind are banned from appearing in this zone.
     * Both towns in the zone 1 are of the faction chosen by the red player, while towns in the zone 2 are of the faction chosen by the blue player.
 * Unless specified in the zone's description, the following objects are disabled:
