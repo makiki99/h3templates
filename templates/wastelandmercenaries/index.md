@@ -1,3 +1,7 @@
+---
+title: HoMM3 Template Vault | Wasteland Mercenaries
+---
+
 [<<-home](../..)
 
 ## Wasteland Mercenaries

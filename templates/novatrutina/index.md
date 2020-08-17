@@ -1,3 +1,7 @@
+---
+title: HoMM3 Template Vault | Nova Trutina
+---
+
 [<<-home](../..)
 
 ## Nova Trutina

@@ -1,3 +1,7 @@
+---
+title: HoMM3 Template Vault | One Minute Madness changelog
+---
+
 [<<-home](../..)  
 [<<-back](index.html)
 

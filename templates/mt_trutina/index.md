@@ -1,3 +1,7 @@
+---
+title: HoMM3 Template Vault | mt_Trutina
+---
+
 [<<-home](../..)
 
 ## mt_Trutina

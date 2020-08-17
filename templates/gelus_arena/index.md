@@ -1,3 +1,7 @@
+---
+title: HoMM3 Template Vault | Gelu's Arena
+---
+
 [<<-home](../..)
 
 ## Gelu's Arena

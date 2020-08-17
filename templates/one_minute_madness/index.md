@@ -1,3 +1,7 @@
+---
+title: HoMM3 Template Vault | One Minute Madness
+---
+
 [<<-home](../..)
 
 ## One Minute Madness
@@ -7,7 +11,7 @@
 [Changelog](changelog.html)
 
 ### Description
-One Minute Madness is (probably) the first template ever made specifically for one minute turn timers.
+One Minute Madness, or 1MM for short, is (probably) the first template ever made specifically for one minute turn timers.
 
 Players start in a monsterless zone with lots of resources and mines. This zone is connected with a grass zone, and a wasteland zone. The grass zone mostly provides more resources, while the wasteland zone is focused on stat improvements for the hero. Both zones are also connected to the desert, which contains two villages of the player's faction, many creature banks, and powerful statboosters in form of major artifacts and Libraries of Enlightment. The grass zone contains a shortcut portal to the opponent's desert, providing an option of surprise attacks. The starting zones and desert are additionally connected through the town gates, granting additional mobility to the player.
 

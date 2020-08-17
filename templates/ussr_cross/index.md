@@ -1,3 +1,7 @@
+---
+title: HoMM3 Template Vault | USSR Cross
+---
+
 [<<-home](../..)
 
 ## USSR Cross
