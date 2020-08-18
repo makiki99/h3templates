@@ -1,5 +1,5 @@
 ---
-title: HoMM3 Template Vault | One Minute Madness
+title: One Minute Madness
 ---
 
 [<<-home](../..)

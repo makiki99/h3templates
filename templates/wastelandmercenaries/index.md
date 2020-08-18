@@ -1,5 +1,5 @@
 ---
-title: HoMM3 Template Vault | Wasteland Mercenaries
+title: Wasteland Mercenaries
 ---
 
 [<<-home](../..)

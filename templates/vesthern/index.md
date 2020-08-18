@@ -1,5 +1,5 @@
 ---
-title: HoMM3 Template Vault | Vesthern Cross
+title: Vesthern Cross
 ---
 
 [<<-home](../..)

@@ -1,5 +1,5 @@
 ---
-title: HoMM3 Template Vault | Nova Trutina
+title: Nova Trutina
 ---
 
 [<<-home](../..)
