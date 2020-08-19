@@ -20,7 +20,7 @@ I think this image should be enough of a description.
 * AI players: 0
 * Teams: none
 * Water: none
-* Monsters: strong
+* Monsters: **normal**
 * Difficulty: 160%
 * Chess timer: 16+8+2
 * Roads: fast
