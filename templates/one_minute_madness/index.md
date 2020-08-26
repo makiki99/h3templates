@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[One Minute Madness 1.1](./One%20Minute%20Madness%201.1.zip)
+[One Minute Madness 1.1a](./One%20Minute%20Madness%201.1a.zip)
 
 [Changelog](changelog.html)
 
@@ -30,7 +30,8 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Sim turns: none
 * Additional rules:
     * The early encounter restart is applying only until 115, even on the slow roads. (Standard is until 117 on slow roads)
-    * The amount of subjective restarts is as with the stanard rules. You can call for a subjective restart immediately after your turn ends due to the timer running out. As a rule of thumb, you should allow your opponent at least 5 seconds to write "111" or "112" in chat, even for the red player with simultaneous turns on.
+    * The amount of subjective restarts is as with the stanard rules.
+    * A technical restart is given in the extremely rare situation of a Town Gate not appearing on the starting zone of any of the players.
 
 ### Template specifications
 
@@ -43,38 +44,38 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
      * Only a subset of objects is allowed to spawn in these zones:
         * Wood, Ore:
             * value: 600
-            * frequency: 25
+            * frequency: 5
         * Mercury, Sulfur, Crystal, Gems
             * value: 700
-            * frequency: 20
+            * frequency: 4
         * Gold
             * value: 500
-            * frequency: 40
+            * frequency: 8
         * Treasure Chest
             * value: 1000
-            * frequency: 10
+            * frequency: 2
             * Max per zone: 3
         * Campfire
             * value: 800
-            * frequency: 15
+            * frequency: 3
         * Redwood observatory
             * value: default
-            * frequency: 9999
+            * frequency: 999
             * Max per zone: 1
         * Level 1 dwelling
             * value: default
-            * frequency: 9999
+            * frequency: 999
             * Max per zone: 1
         * Churchyard
             * value: default
-            * frequency: 9999
+            * frequency: 999
             * Max per zone: 1
         * Learning Stone
             * value: default
-            * frequency: 9999
+            * frequency: 999
             * Max per zone: 1
         * Town Gate
-            * value: 500
+            * value: 750
             * frequency: 9999
             * Max per zone: 1
 * Zones 6 and 8 are wasteland zones.

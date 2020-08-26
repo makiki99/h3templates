@@ -7,6 +7,16 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.1a
+
+[Download](./One%20Minute%20Madness%201.1a.zip)
+
+#### Zones 9 and 10
+
+* As an attempt to reduce the chance of a missing Town Gate in this zone, the following changes were applied:
+    * Increased the value of Town Gate to 750
+    * Decreased the value of every other object available on this zone by 80%.
+
 ### Version 1.1
 
 [Download](./One%20Minute%20Madness%201.1.zip)
