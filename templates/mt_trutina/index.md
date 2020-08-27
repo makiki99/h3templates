@@ -27,7 +27,7 @@ This is a mirrorized version of Nova Trutina.
 
 ![](graph.png)
 
-* Map size: L
+* Map size: M+U (underground layer is the copy of the surface layer)
 * Zone 2 is the player starting zone.
     * Treasure values: (500-2000, 17), (2000-4000, 5)
     * Terrain is corresponding to the towns chosen by the players.
