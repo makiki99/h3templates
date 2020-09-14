@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[One Minute Madness 1.1a](./One%20Minute%20Madness%201.1a.zip)
+[One Minute Madness 1.2](./One%20Minute%20Madness%201.2.zip)
 
 [Changelog](changelog.html)
 
@@ -88,8 +88,34 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * 1 Black Tower
         * 1 Imp Cache
     * The Imp Cache has a reduced object value of 2500.
-    * Schools of War have their frequency increased to 500, while Schools of Magic have their frequency increased to 300.
-    * Learning stones, Mercenary Camps, Marletto Towers, Star Axes and Gardens of Revelation have all their frequency increased to 700 each.
+    * The stat boosting objects all have their frequency changed and their amount limited:
+        * School of War
+            * frequency 500
+            * max per zone 2
+        * School of War
+            * frequency 300
+            * max per zone 2
+        * Marletto Tower
+            * frequency 700
+            * max per zone 3
+        * Mercenary Camp
+            * frequency 700
+            * max per zone 3
+        * Star Axis
+            * frequency 600
+            * max per zone 2
+        * Garden of Revelation
+            * frequency 600
+            * max per zone 3
+        * Arena
+            * frequency 200
+            * max per zone 1
+        * Colosseum of the Magi
+            * frequency 200
+            * max per zone 1
+        * Library of Enlightenment
+            * Disabled
+    * Additionally, the frequency of Learning Stones is increased to 700 and their max per zone is set to 5.
     * All resources have their frequency reduced to 40, and the Random Resource object has its frequency reduced to 100.
     * The amount of Spell Scrolls and Shrines spawning in this zone is limited to the following:
         * Level 1 scrolls: 3
