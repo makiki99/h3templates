@@ -180,8 +180,8 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Tier 1: Protection from Water, View Air, View Earth
     * Tier 2: Disguise, Remove Obstacle
     * Tier 3: Earthquake, Land Mine, Destroy Undead, Hypnotize, Mirth, Misfortune
-    * Tier 4: Armageddon, Town Portal, Fly, Slayer, Fire Shield, Sorrow, Counterstrike
-    * Tier 5: Dimension Door, Magic Mirror
+    * Tier 4: Armageddon, Town Portal, Slayer, Fire Shield, Sorrow, Counterstrike
+    * Tier 5: Dimension Door, Fly, Magic Mirror
 * Banned Artifacts: 
     * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness, Pendant of Second Sight, Bow of Elven Cherrywood 
     * Minor: Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
