@@ -12,5 +12,5 @@ All of the following templates are licensed under [CC-BY-SA 4.0](license.html) l
 
 ### Template Hacks
 
-* [Vesthern Cross](./templates/vesthern) - A hack of the Jebus Cross template, updated for the newest version of HotA. If anyone knows the original author of this hack, please let me know!
+* [Vesthern Cross](./templates/vesthern) - A hack of the Jebus Cross template, updated for the newest version of HotA. Originally created by Vesth.
 * [USSR Cross](./templates/ussr_cross) - A ~~total shitpost~~ hack of the Jebus Cross template, created to ~~reintroduce communism~~ give you a powerstack of ~~proletariat~~ peasants.

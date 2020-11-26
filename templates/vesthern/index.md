@@ -6,7 +6,7 @@ title: Vesthern Cross
 
 ## Vesthern Cross
 
-*Original author unknown - please contact me if you know who the author is.*
+*Original author is Vesth*
 
 [Vesthern Cross 1.6.0](./Vesthern%20Cross%201.6.0.zip)
 
