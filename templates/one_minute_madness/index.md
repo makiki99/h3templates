@@ -10,6 +10,8 @@ title: One Minute Madness
 
 [Changelog](changelog.html)
 
+[Make sure to check out the One Minute Madness League!](https://discord.gg/6aab2J4UQw)
+
 ### Description
 One Minute Madness, or 1MM for short, is (probably) the first template ever made specifically for one minute turn timers.
 
