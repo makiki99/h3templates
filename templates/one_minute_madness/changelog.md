@@ -55,7 +55,7 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 * As an attempt to reduce the chance of a missing Town Gate in this zone, the following changes were applied:
     * Increased the value of Town Gate to 750
-    * Decreased the value of every other object available on this zone by 80%.
+    * Decreased the frequency of every other object available on this zone by 80%.
 
 ### Version 1.1
 
