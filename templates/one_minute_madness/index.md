@@ -94,7 +94,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * School of War
             * frequency 500
             * max per zone 2
-        * School of War
+        * School of Magic
             * frequency 300
             * max per zone 2
         * Marletto Tower
