@@ -17,34 +17,33 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 #### Zones 6 and 8
 
-* The amount of stat boosting objects have been hard capped to prevent ridiculous generations with faaaaar too many stat points. The relevant values are:
-    * The stat boosting objects all have their frequency changed and their amount limited:
-        * School of War
-            * frequency 500
-            * max per zone 2
-        * School of War
-            * frequency 300
-            * max per zone 2
-        * Marletto Tower
-            * frequency 700
-            * max per zone 3
-        * Mercenary Camp
-            * frequency 700
-            * max per zone 3
-        * Star Axis
-            * frequency 600
-            * max per zone 2
-        * Garden of Revelation
-            * frequency 600
-            * max per zone 3
-        * Arena
-            * frequency 200
-            * max per zone 1
-        * Colosseum of the Magi
-            * frequency 200
-            * max per zone 1
-        * Library of Enlightenment
-            * Disabled
+* The amount of stat boosting objects have been hard capped to prevent ridiculous generations with faaaaar too many stat points. The stat boosting objects all have their frequency changed and their amount limited:
+    * School of War
+        * frequency 500
+        * max per zone 2
+    * School of Magic
+        * frequency 300
+        * max per zone 2
+    * Marletto Tower
+        * frequency 700
+        * max per zone 3
+    * Mercenary Camp
+        * frequency 700
+        * max per zone 3
+    * Star Axis
+        * frequency 600
+        * max per zone 2
+    * Garden of Revelation
+        * frequency 600
+        * max per zone 3
+    * Arena
+        * frequency 200
+        * max per zone 1
+    * Colosseum of the Magi
+        * frequency 200
+        * max per zone 1
+    * Library of Enlightenment
+        * Disabled
 * For the same reason, the amount of Learning Stones has been capped to 5.
 
 ### Version 1.1a
