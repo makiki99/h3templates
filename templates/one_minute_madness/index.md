@@ -185,9 +185,9 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Tier 4: Armageddon, Town Portal, Slayer, Fire Shield, Sorrow, Counterstrike
     * Tier 5: Dimension Door, Fly, Magic Mirror
 * Banned Artifacts: 
-    * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Emblem of Cognizance, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness, Pendant of Second Sight, Bow of Elven Cherrywood 
-    * Minor: Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
-    * Major: Boots of Speed, Dead Man's Boots, Ambassador's Sash, Wayfarer's Boots, Diplomat's Ring, Statesman's Medal, Orb of Silt, Orb of the Firmament, Orb of Driving Rain, Orb of Tempestuous Fire, Arms of Legion, Head of Legion, Endless Bag of Gold, Endless Purse of Gold, Pendant of Negativity, Angel Feather Arrows, Ring of Infinite Gems, Eversmoking Ring of Sulfur, Everpouring Vial of Mercury, Everflowing Crystal Cloak
+    * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness,  Bow of Elven Cherrywood 
+    * Minor: Emblem of Cognizance, Boots of Speed, Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
+    * Major: Pendant of Second Sight, Dead Man's Boots, Ambassador's Sash, Wayfarer's Boots, Diplomat's Ring, Statesman's Medal, Orb of Silt, Orb of the Firmament, Orb of Driving Rain, Orb of Tempestuous Fire, Arms of Legion, Head of Legion, Endless Bag of Gold, Endless Purse of Gold, Pendant of Negativity, Angel Feather Arrows, Ring of Infinite Gems, Eversmoking Ring of Sulfur, Everpouring Vial of Mercury, Everflowing Crystal Cloak
     * Relic: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Endless Sack of Gold
 * Banned heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle
 * Banned skills: Eagle Eye, Learning, First Aid.
