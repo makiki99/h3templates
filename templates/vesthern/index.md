@@ -8,7 +8,7 @@ title: Vesthern Cross
 
 *Original author is Vesth*
 
-[Vesthern Cross 1.6.0](./Vesthern%20Cross%201.6.0.zip)
+[Download Vesthern Cross 1.6.0](./Vesthern%20Cross%201.6.0.zip)
 
 ### Description
 Vesthern Cross is a giant-sized Jebus Cross where everything is allowed. And when I say anything, I **mean** anything. Recruiting Gelu from Tavern? Check. Picking up a pre-assembled Cloak of the Undead King? Check. Spamming Armageddon with the Armageddon's Blade? Check. Abusing pre-nerf diplomacy? Check. Anything can happen, and anything can become your win condition.

@@ -6,7 +6,7 @@ title: Nova Trutina
 
 ## Nova Trutina
 
-[Nova Trutina 1.2](./Nova%20Trutina%201.2.zip)
+[Download Nova Trutina 1.2](./Nova%20Trutina%201.2.zip)
 
 ### Description
 Nova Trutina is a template focused on fast paced gameplay with an emphasis on the balance. The key features of this template are relatively small size and three paths to the opponent. This results in a high contact match, where you have to outplay your opponent through positioning, chaining, and element of surprise.

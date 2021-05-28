@@ -6,7 +6,7 @@ title: Gelu's Arena
 
 ## Gelu's Arena
 
-[Gelu's Arena 1.0](./Gelu's%20Arena%201.0.zip)
+[Download Gelu's Arena 1.0](./Gelu's%20Arena%201.0.zip)
 
 ### Description
 Gelu is a well-known hero in both the ingame lore and the H3 community - and this is the arena designed to pay homage to him. While he isn't available as one of the heroes, an army of Sharpshooter awaits recruitment here.

@@ -6,7 +6,7 @@ title: USSR Cross
 
 ## USSR Cross
 
-[USSR Cross](./USSR%20Cross.zip)
+[Download USSR Cross](./USSR%20Cross.zip)
 
 ### Description
 

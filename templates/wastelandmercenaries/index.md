@@ -8,7 +8,7 @@ title: Wasteland Mercenaries
 
 **NOTE:** This template is in a Proof of Concept stage - it was not tested, and as such it may not provide a fun and/or balanced experience.
 
-[Wasteland Mercenaries 0.1](./Wasteland%20Mercenaries%200.1.zip)
+[Download Wasteland Mercenaries 0.1](./Wasteland%20Mercenaries%200.1.zip)
 
 ### Description
 This template is split into four main areas: two player areas, the tituar Wasteland and a hostile, yet rich desert. The Wasteland is filled with monsters ready to be recruited by anyone who gives them enough money. Monsters in the desert can't ever be swayed to your side, though. They will declare you as invanders and will always fight you - no matter what is your diplomacy level.

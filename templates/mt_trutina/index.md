@@ -6,7 +6,7 @@ title: mt_Trutina
 
 ## mt_Trutina
 
-[mt_Trutina 1.2](./mt_Trutina%201.2.zip)
+[Download mt_Trutina 1.2](./mt_Trutina%201.2.zip)
 
 ### Description
 This is a mirrorized version of Nova Trutina.
