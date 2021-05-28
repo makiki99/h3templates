@@ -7,6 +7,19 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.3
+
+[Download](./One%20Minute%20Madness%201.3.zip)
+
+#### General Settings
+
+* Banned Leena. While she wasn't winning the games by herself, she was an autobuy hero - even at level 1, she contributes to the economy immensely, instantly making the game significiantly easier for the player who buys her. Other gold generating heroes, along with the Finance skill is currently put on a watchlist - depending on the data gathered from games and player opinion they may be banned too in a future version.
+* Minor improvements to the stability of zone generation.
+
+#### Zones 5 and 7
+
+* Forced the amount of Trees of Knowledge on this zone to 2. This object provides interesting decisions to the players, especially in lategame - and as such, they contribute positively to the map. Additionally, they may become important enough in some games that they should spawn in a more controlled manner.
+
 ### Version 1.2
 
 [Download](./One%20Minute%20Madness%201.2.zip)

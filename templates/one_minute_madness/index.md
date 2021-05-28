@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[One Minute Madness 1.2](./One%20Minute%20Madness%201.2.zip)
+[One Minute Madness 1.3](./One%20Minute%20Madness%201.3.zip)
 
 [Changelog](changelog.html)
 
@@ -27,7 +27,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Water: none
 * Monsters: strong
 * Difficulty: 160%
-* Chess timer: 1+1+3 or 1min classical
+* Chess timer: 1+1+3
 * Roads: slow
 * Sim turns: none
 * Additional rules:
