@@ -40,6 +40,8 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 ![](graph.png)
 
 * Map size: L
+* Special information:
+    * The road connection between zones 1 and 2 should be almost always the green two-way monolith.
 * Zones 9 and 10 are player starting zones.
     * Treasure values: (500-3000, 38)
     * Terrain is corresponding to the towns chosen by the players.

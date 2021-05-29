@@ -20,6 +20,10 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 * Forced the amount of Trees of Knowledge on this zone to 2. This object provides interesting decisions to the players, especially in lategame - and as such, they contribute positively to the map. Additionally, they may become important enough in some games that they should spawn in a more controlled manner.
 
+#### Zones 1 and 2
+
+* Reworked connections between these zones - now the road connection should always be the green two-way monolith, and there shouldn't be an offroad connection spawning in a way that completely blocks the expansion into the desert zone anymore.
+
 ### Version 1.2
 
 [Download](./One%20Minute%20Madness%201.2.zip)
