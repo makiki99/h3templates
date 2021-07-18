@@ -7,6 +7,12 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.3a
+
+[Download](./One%20Minute%20Madness%201.3a.zip)
+
+* Fixed the occasional issue where the green monolith color was taken by one of the offroad connections between zones 1 and 2.
+
 ### Version 1.3
 
 [Download](./One%20Minute%20Madness%201.3.zip)
