@@ -1,6 +1,6 @@
 All templates listed are designed for the Horn of the Abyss modification. Most of them attempt to use the features added to the template format extensively. If you find an issue with the website or one of the templates, please use the [GitHub's issues system](https://github.com/makiki99/h3templates/issues) to report it.
 
-All of the following templates are licensed under [CC-BY-SA 4.0](license.html) license. The preferred form of atribution is linking back to this site.
+All of the following templates are licensed under [CC-BY-SA 4.0](https://github.com/makiki99/h3templates/blob/master/license.md) license. The preferred form of atribution is linking back to this site.
 
 ### Original Templates
 
