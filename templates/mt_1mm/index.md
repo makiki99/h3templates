@@ -38,9 +38,7 @@ This is the mirrorized version of the [One Minute Madness](../one_minute_madness
 
 ![](graph.png)
 
-* Map size: L
-* Special information:
-    * The road connection between zones 1 and 2 should be almost always the green two-way monolith.
+* Map size: M (underground will be a copy of the surface layer)
 * Zones 9 is the player starting zone.
     * Treasure values: (500-3000, 32)
     * Terrain is corresponding to the towns chosen by the players.
