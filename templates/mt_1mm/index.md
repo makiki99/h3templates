@@ -4,7 +4,7 @@ title: mt_1mm
 
 [<<-home](../..)
 
-## One Minute Madness
+## mt_1MM
 
 **NOTE:** This template is in a alpha stage - it is still being tested, and major changes are still easily possible at this point. Proceed with caution!
 
