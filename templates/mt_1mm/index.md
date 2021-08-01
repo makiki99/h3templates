@@ -8,7 +8,7 @@ title: mt_1mm
 
 **NOTE:** This template is in a alpha stage - it is still being tested, and major changes are still easily possible at this point. Proceed with caution!
 
-[Download mt_1MM 0.1](./mt_1MM%200.1.zip)
+[Download mt_1MM 0.1](./mt_1MM%20v0.1.zip)
 
 [Changelog](changelog.html)
 

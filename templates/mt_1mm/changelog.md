@@ -9,7 +9,7 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ### Version 0.1
 
-[Download](./mt_1MM%200.1.zip)
+[Download](./mt_1MM%20v0.1.zip)
 
 First version ever released!
 
