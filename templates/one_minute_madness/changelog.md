@@ -7,6 +7,14 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.4
+
+[Download](./One%20Minute%20Madness%201.4.zip)
+
+This is most likely the final update of this template, at least until the next HotA release. I am currently very satisfied with both the balance and design of this template - and it is really hard to come up with any way to actually improve this template at this point. Of course, this doesn't mean I will stop supporting this template - of course not! The 1MM league will continue, and I will intervene with an update in case of any issues requiring one.
+
+* Banned Cape of Silence. This artifact has been found to be broken by virtue of invalidating two factions barred from high level spell use, namely Fortress and Stronghold - and as such it was extremely unhealthy to the metagame, effectively dictating the result of the game in many cases.
+
 ### Version 1.3a
 
 [Download](./One%20Minute%20Madness%201.3a.zip)
