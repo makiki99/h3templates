@@ -316,7 +316,7 @@ This release marks the start of the Beta stage of template development.
 
 #### Heroes:
 
-* Banned Ayden. This hero starts with View Earth spell, for which the ban rationale was listed above. Other heroes that start with the banned spells will aren't currently banned because their low impact on the game. If they will be deemed unviable, they will be banned.
+* Banned Ayden. This hero starts with View Earth spell, for which the ban rationale was listed above. Other heroes that start with the banned spells aren't currently banned because their low impact on the game. If they will be deemed unviable, they will be banned.
 
 ### Version 0.1
 
