@@ -32,7 +32,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Sim turns: none
 * Additional rules:
     * The early encounter restart is applying only until 115, even on the slow roads. (Standard is until 117 on slow roads)
-    * The amount of subjective restarts is as with the stanard rules.
+    * The amount of subjective restarts is as with the standard rules.
     * A technical restart is given in the extremely rare situation of a Town Gate not appearing on the starting zone of any of the players.
 
 ### Template specifications
