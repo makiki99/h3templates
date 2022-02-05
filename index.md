@@ -8,7 +8,7 @@ Certain templates listed here are made and mantained by people other than Makiki
 
 * [One Minute Madness](./templates/one_minute_madness) - A template designed specifically for super short timer settings - the titular one minute timer.
 * [mt_1MM](./templates/mt_1mm) - A mirror version of the previous template.
-* [mt_Team1MM](./templates/mt_Team1mm) - 2v2 version of the 1mm template. Good luck.
+* [mt_Team1MM](./templates/mt_team1mm) - 2v2 version of the 1mm template. Good luck.
 * [Nova Trutina](./templates/novatrutina) - A template focused on the fast-paced games that retain a high level of balance.
 * [mt_Trutina](./templates/mt_trutina) - A mirror version of the previous template.
 * [Gelu's Arena](./templates/gelus_arena) - A template focused on the Sharpshooters - the favourite unit of the titulare Gelu.
