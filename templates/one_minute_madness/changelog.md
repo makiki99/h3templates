@@ -7,6 +7,14 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.5
+
+[Download](./One%20Minute%20Madness%201.5.zip)
+
+* Banned Targ of the Rampaging Ogre. Ironfist of the Ogre, while it was cool at first, was shown to be a significiant issue when it comes to the balance of the template. It was left in the game as an unlikely late game goal meant for stallbreaking, but it has become a thing that players may specifically hunt out and sometimes even assemble it as early as 121-122. This affects the metagame of this template to an unacceptable level, causing major disparities between both sides of the map with a surprisingly high frequency. As for why specifically the Targ, and not any other element of this set: there is one extra shield in the form of the Dragon Scale Shield available in the pool of major artifacts - which makes removing the Targ less of a practical issue.
+* Banned Cape of Velocity. Over the course of the Season 2 of the One Minute Madness League it was shown that this was way too high of a speed boost - especially when combined with Ring of the Wayfarer it was affecting the game in a way too strong manner to be acceptable, even if it wasn't an autowin find.
+* Unbanned Orb of Tempestous Fire. It is a somewhat experimental addition to this template, but hopefully it may be an interesting option which allows for stronger Magic Arrows and possible push to make Fireballs and Infernos at least a bit more viable opions for use in combat.
+
 ### Version 1.4
 
 [Download](./One%20Minute%20Madness%201.4.zip)
