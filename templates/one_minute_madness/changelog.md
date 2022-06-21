@@ -7,6 +7,12 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.5a
+
+[Download](./One%20Minute%20Madness%201.5a.zip)
+
+* Actually implemented the missing changes for 1.5 version.
+
 ### Version 1.5
 
 [Download](./One%20Minute%20Madness%201.5.zip)
