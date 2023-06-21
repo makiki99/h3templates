@@ -7,6 +7,14 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.6
+
+[Download](./One%20Minute%20Madness%201.6.zip)
+
+* Banned Rion and Verdish. The possibility of losing tier 2 stacks from the tavern hero in exchange for a first aid tent just feels bad for Castle and Fortress. 
+* Banned Orb of Tempestous Fire. This artifact was an experimental addition to this template, and the experiment simply failed. This artifact had little to no use and was far, far too niche to justify keeping it in the major artifact pool.
+* Changed the timer recommendation from 1+1+3 to 1+1+2. The combat timer was extremely long, and allowed for more abuse than it is normally expected and acceptable. With support from the community, this timer was shortened to a more appropriate value.
+
 ### Version 1.5a
 
 [Download](./One%20Minute%20Madness%201.5a.zip)
