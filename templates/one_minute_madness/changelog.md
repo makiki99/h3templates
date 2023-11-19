@@ -7,6 +7,40 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.7
+
+[Download](./One%20Minute%20Madness%201.7.zip)
+
+The 1.7 update to the One Minute Madness is comparatively huge, and it is a little bit more experimental than I would normally be comfortable with. For this reason, I wouldn't be surprised if a 1.8 release will be necessary before the start of the next season of 1MM League.
+
+#### Unchaining the meta
+
+* **Banned the Chain Lightning spell.** This spell was massive since the early days of One Minute Madness. Most final battles revolve around the use of this spell, and usually the counterplay against it is limited. The spell itself is also very accessible, meaning that you will see it in nearly every single game, and the time and resource cost of obtaining it is not that high. Ultimately, the combination of very high power level and ease of access makes this spell problematic, and despite the ripple effects it may have on the metagame I've made the decision to let this spell go. That being said, I am not against rolling back this change if it will be necessary, though I feel that it will be a net positive for the health of the metagame.
+* **Banned Protection from Earth.** With Chain Lightning being removed, casting Protection from Earth at the Expert level would result in your army being effectively walled from most magical damage.
+* **Banned Protection from Air.** With no Chain Lightning to protect from, this spell simply doesn't do enough to warrant further inclusion in the pool of spells.
+* **Removed Charm of Eclipse and Seal of Sunset artifacts.** Combined with the Interference skill, they provide up to 50% reduction of opponent's spell power. Even with Chain Lightning in the game, that was simply way too much.
+* **Increased the maximum amount of Schools of Magic to 2 and Star Axes to 3 on Wasteland zone.** Chain Lightning was the main reason why these objects were limited in such an aggressive manner, and - combined with the changes above - this should slightly relax things and give a tiny bit more breathing room for the mages.
+
+#### Conflux restoration
+
+* **Added Elemental Conflux dwelling to the starting zone.** This faction is the least liked one out of all 10 available on the One Minute Madness. It has weak army and strong mages, pushing this faction to pretty much a single strategy - Chain Lightning rush. During the early seasons of the 1MM League, this strategy was incredibly strong - but nowadays, people have adapted, and the wild rush that bets everything on a single card is far too fragile now wile also being hard to execute - not to mention that it also relies on having good RNG rolls to reach your opponent in time. With Chain Lightning banned, this faction is left with practically nothing, and to avoid the need to ban this faction, this composite external dwelling is given to Conflux in hopes that it will help this faction to, well, do anything.
+* **Adjusted the treasure values of the starting zones due to the need to accommodate the Elemental Conflux.** The amount of resources available from this zone should not change much - but the change is still necessary to make room for such high value dwelling to spawn. Note that the object value of dwellings is currently impossible to change via an object rule.
+
+#### Heroic Shuffle
+
+* **Unbanned Mutare, Xeron and Kilgor.** I have been requested many, many times to add some of the campaign heroes, and these three are the ones that may provide something interesting to the gameplay while also not being terribly broken. Granted, it would be possible to also add Mutare Drake and Haart Lich to the template, the fact that these two are alternate versions of other heroes does create a bit of weird dissonance.
+* **Banned Gird.** Since adding Kilgor to the pool of heroes would cause the amount of Stronghold heroes to equal 17 - one over the cap of 16 selectable starting heroes per faction. I expect Gird's removal to have a low enough impact to not cause any significiant change.
+* **Banned Corkes.** This hero is by far the strongest and the most game-changing hero available on this template. While in Cove it does not break the game, for other factions getting Corkes may be a bit too much of an advantage over the opponent. Even if you are playing Necropolis, who doesn't have that much use of Corkes, you will still be happy to see him in tavern, because this means your opponent doesn't have him available.
+
+#### Other changes
+
+* **Removed Witch Huts.** In most games, Witch Huts have very little impact on the game and are a somewhat boring of an object... until you find out that you got Estates - an incredibly powerful skill on this template - for free, and you can give it to every single non-main hero you have. This gives you an incredibly stupid economic advantage to the point of breaking down the game and potentially causing a non-game. This huge disparity of effects that this object can have is undesirable for this template, and hence this object is removed from this template.
+* **Removed Universities.** University is an object that may fix up the secondary skills of your hero for free, and can still house Estates skill. While having to pay for Estates makes it less problematic than getting it for free from a Witch Hut, I still don't like the idea of this happening - especially combined with how much space on the map University takes, which in turn may cause map generation issues down the line.
+* **Adjusted the positioning of the zones to bias them towards wide rolls.** The most extreme of the narrow map rolls were a bit too tight with resources and navigating space. This change hopefully will make the situation a bit better, even though it does not eliminate the problem completely.
+* **Unbanned Earthquake.** I wanted to add this spell to the pool for a long, long time as a potentially interesting option for use in sieges, but couldn't do so to not overpopulate the tier 3 spell pool. Removing Protection from Earth gave back that little bit of room to allow me to introduce Earthquake back into the fray.
+* **Banned Protection from Fire.** When looking through the spell list, I have noticed that Protection from Fire, which is far from a valuable spell, is still available. Taking this into account, and the fact that other Protection spells are now banned too, this one is now also removed.
+* **Slightly increased the frequency of Wood resource spawns.** Building up towns requires more Wood than Ore, and this change is done to accommodate for this.
+
 ### Version 1.6
 
 [Download](./One%20Minute%20Madness%201.6.zip)

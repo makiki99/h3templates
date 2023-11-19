@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[Download One Minute Madness 1.6](./One%20Minute%20Madness%201.6.zip)
+[Download One Minute Madness 1.7](./One%20Minute%20Madness%201.6.zip)
 
 [Changelog](changelog.html)
 
@@ -43,10 +43,13 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Special information:
     * The road connection between zones 1 and 2 should be almost always the green two-way monolith.
 * Zones 9 and 10 are player starting zones.
-    * Treasure values: (500-3000, 38)
+    * Treasure values: (500-3000, 19), (5000-9000, 6)
     * Terrain is corresponding to the towns chosen by the players.
      * Only a subset of objects is allowed to spawn in these zones:
-        * Wood, Ore:
+        * Wood:
+            * value: 600
+            * frequency: 6
+        * Ore:
             * value: 600
             * frequency: 5
         * Mercury, Sulfur, Crystal, Gems
@@ -64,19 +67,25 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
             * frequency: 3
         * Redwood observatory
             * value: default
-            * frequency: 999
+            * frequency: 2000
             * Max per zone: 1
         * Level 1 dwelling
+            * Applies only for factions other than Conflux.
             * value: default
-            * frequency: 999
+            * frequency: 2000
+            * Max per zone: 1
+        * Elemental Conflux
+            * Applies only for Conflux.
+            * value: default
+            * frequency: 2000
             * Max per zone: 1
         * Churchyard
             * value: default
-            * frequency: 999
+            * frequency: 2000
             * Max per zone: 1
         * Learning Stone
             * value: default
-            * frequency: 999
+            * frequency: 2000
             * Max per zone: 1
         * Town Gate
             * value: 750
@@ -107,7 +116,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
             * max per zone 3
         * Star Axis
             * frequency 600
-            * max per zone 2
+            * max per zone 3
         * Garden of Revelation
             * frequency 600
             * max per zone 3
@@ -135,6 +144,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Terrain is always Grass.
     * A single Stables spawn in this zone, with object value increased to 1000.
     * Water Wheels have their value increased to 1000, and their frequency to 150.
+    * Wood has its frequency increased to 350.
     * A single Pandora's Box containing 5000 xp spawn in this zone.
     * The following creature banks spawn in this zone:
         * 3 Crypts
@@ -146,7 +156,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Treasure class artifacts are disabled in this zone.
     * Minor class artifacts have their frequency increased to 250, while Major class artifacts have their frequency increased to 800.
     * Two Pandora's Boxes with 10000 experience each spawn in this zone. In case of a very small desert, one or both of the boxes may be missing
-    * The following creature banks spawn in this zone
+    * The following creature banks spawn in this zone:
         * 2 Wolf Raider Pickets
         * 2 Dragon Fly Hives
         * 3 Churchyards
@@ -180,15 +190,17 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * War Machine Factories
     * Cannon Yards
     * Refugee Camps
+    * Universities
+    * Witch Huts
 * Banned Spells: 
-    * Tier 1: Protection from Water, View Air, View Earth
-    * Tier 2: Disguise, Remove Obstacle
-    * Tier 3: Earthquake, Land Mine, Destroy Undead, Hypnotize, Mirth, Misfortune
-    * Tier 4: Armageddon, Town Portal, Slayer, Fire Shield, Sorrow, Counterstrike
+    * Tier 1: Protection from Water, Protection from Fire, View Air, View Earth
+    * Tier 2: Disguise, Remove Obstacle, Protection from Air
+    * Tier 3: Protection from Earth, Land Mine, Destroy Undead, Hypnotize, Mirth, Misfortune
+    * Tier 4: Chain Lightning, Armageddon, Town Portal, Slayer, Fire Shield, Sorrow, Counterstrike
     * Tier 5: Dimension Door, Fly, Magic Mirror
 * Banned Artifacts: 
     * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness,  Bow of Elven Cherrywood 
-    * Minor: Emblem of Cognizance, Boots of Speed, Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
+    * Minor: Charm of Eclipse, Seal of Sunset, Emblem of Cognizance, Boots of Speed, Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
     * Major: Pendant of Second Sight, Dead Man's Boots, Ambassador's Sash, Wayfarer's Boots, Diplomat's Ring, Statesman's Medal, Orb of Silt, Orb of the Firmament, Orb of Driving Rain, Orb of Tempestous Fire, Arms of Legion, Head of Legion, Endless Bag of Gold, Endless Purse of Gold, Pendant of Negativity, Angel Feather Arrows, Ring of Infinite Gems, Eversmoking Ring of Sulfur, Everpouring Vial of Mercury, Everflowing Crystal Cloak, Cape of Silence, Targ of the Rampaging Ogre, Cape of Velocity
     * Relic: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Endless Sack of Gold
 * Banned heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle, Leena, Rion, Verdish
