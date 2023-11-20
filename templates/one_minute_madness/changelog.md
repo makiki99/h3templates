@@ -7,6 +7,12 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.7a
+
+[Download](./One%20Minute%20Madness%201.7a.zip)
+
+* Implemented the missing change that bans the Charm of Eclipse and Seal of Sunset artifacts. With so many changes on the list this just slipped through.
+
 ### Version 1.7
 
 [Download](./One%20Minute%20Madness%201.7.zip)

@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[Download One Minute Madness 1.7](./One%20Minute%20Madness%201.7.zip)
+[Download One Minute Madness 1.7a](./One%20Minute%20Madness%201.7a.zip)
 
 <span style="font-size:0.85em;">[Download version 1.6 (for Bambi Cup)](./One%20Minute%20Madness%201.6.zip)</span>
 
