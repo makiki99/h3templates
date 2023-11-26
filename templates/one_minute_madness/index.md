@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[Download One Minute Madness 1.7a](./One%20Minute%20Madness%201.7a.zip)
+[Download One Minute Madness 1.7b](./One%20Minute%20Madness%201.7b.zip)
 
 <span style="font-size:0.85em;">[Download version 1.6 (for Bambi Cup)](./One%20Minute%20Madness%201.6.zip)</span>
 
@@ -45,7 +45,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Special information:
     * The road connection between zones 1 and 2 should be almost always the green two-way monolith.
 * Zones 9 and 10 are player starting zones.
-    * Treasure values: (500-3000, 19), (5000-9000, 6)
+    * Treasure values: (500-3000, 25), (5000-9000, 6)
     * Terrain is corresponding to the towns chosen by the players.
      * Only a subset of objects is allowed to spawn in these zones:
         * Wood:
@@ -59,7 +59,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
             * frequency: 4
         * Gold
             * value: 500
-            * frequency: 8
+            * frequency: 9
         * Treasure Chest
             * value: 1000
             * frequency: 2

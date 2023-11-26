@@ -7,6 +7,14 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 1.7b
+
+[Download](./One%20Minute%20Madness%201.7b.zip)
+
+* Adjusted the zone positioning - the attempt from 1.7 at biasing the RMG towards wider map rolls did not work, and this is the another attempt at this.
+* Bumped the treasure values in the starting zone to (500-3000, 25), (5000-9000, 6). The changes needed to handle the addition of the Elemental Conflux caused a significiant reduction of Gold spawned - which was very much not the intention of this change. This aims to counteract this a bit.
+* Increased the frequency of Gold spawns from 8 to 9 on the starting zone.
+
 ### Version 1.7a
 
 [Download](./One%20Minute%20Madness%201.7a.zip)
