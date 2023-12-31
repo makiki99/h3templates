@@ -7,6 +7,17 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.0
+
+[Download](./One%20Minute%20Madness%202.0.h3t)
+
+Welp, Factory is finally somehow out, and with it some really important changes that necessiate a quick update to this template.
+
+* Changed the extension of the template file to `.h3t`, as required by the new version of HotA.
+* Banned Agar. Reason - he has the View Earth spell, which I do believe to be incompatibile with the format.
+* Unbanned Frederick - he is a campaign hero with a reasonable starting army and skillset, and matches the class with the freshly banned Agar.
+* First Aid skill has been unbanned. With the changes it got it is now a skill that has a proper niche, and I can see it being used especially for the Grass zone farming. The currently banned First Aid specialists will not be unbanned just yet, but the possibility of it happening is on the table.
+
 ### Version 1.7b
 
 [Download](./One%20Minute%20Madness%201.7b.zip)

@@ -6,9 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[Download One Minute Madness 1.7b](./One%20Minute%20Madness%201.7b.zip)
-
-<span style="font-size:0.85em;">[Download version 1.6 (for Bambi Cup)](./One%20Minute%20Madness%201.6.zip)</span>
+[Download One Minute Madness 2.0](./One%20Minute%20Madness%202.0.zip)
 
 [Changelog](changelog.html)
 
@@ -205,6 +203,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Minor: Charm of Eclipse, Seal of Sunset, Emblem of Cognizance, Boots of Speed, Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
     * Major: Pendant of Second Sight, Dead Man's Boots, Ambassador's Sash, Wayfarer's Boots, Diplomat's Ring, Statesman's Medal, Orb of Silt, Orb of the Firmament, Orb of Driving Rain, Orb of Tempestous Fire, Arms of Legion, Head of Legion, Endless Bag of Gold, Endless Purse of Gold, Pendant of Negativity, Angel Feather Arrows, Ring of Infinite Gems, Eversmoking Ring of Sulfur, Everpouring Vial of Mercury, Everflowing Crystal Cloak, Cape of Silence, Targ of the Rampaging Ogre, Cape of Velocity
     * Relic: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Endless Sack of Gold
-* Banned heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle, Leena, Rion, Verdish
-* Banned skills: Eagle Eye, Learning, First Aid.
+* Banned heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle, Leena, Rion, Verdish, Agar
+* Unbanned heroes: Kilgor, Mutare, Xeron, Frederick
+* Banned skills: Eagle Eye, Learning.
 * Combat turn limit: 100
