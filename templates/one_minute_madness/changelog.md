@@ -7,6 +7,12 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.0a
+
+[Download](./One%20Minute%20Madness%202.0a.h3t)
+
+* Restored the 100 turn battle limit that was removed due to a regression in the template editor.
+
 ### Version 2.0
 
 [Download](./One%20Minute%20Madness%202.0.h3t)
