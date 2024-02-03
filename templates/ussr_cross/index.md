@@ -6,7 +6,7 @@ title: USSR Cross
 
 ## USSR Cross
 
-[Download USSR Cross](./USSR%20Cross.zip)
+[Download USSR Cross (updated for HotA 1.7)](./USSR%20Cross.h3t)
 
 ### Description
 
