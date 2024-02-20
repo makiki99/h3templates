@@ -7,6 +7,12 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.0c
+
+[Download](./One%20Minute%20Madness%202.0c.h3t)
+
+* Restored the missing object rule allowing the gold to spawn on the starting zone. I have no idea whether this was caused by an editor bug or my own misclick - but it is a thing that happened and requires a hotfix.
+
 ### Version 2.0b
 
 [Download](./One%20Minute%20Madness%202.0b.h3t)
