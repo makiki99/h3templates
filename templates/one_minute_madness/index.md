@@ -43,7 +43,6 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
 * Special information:
     * The road connection between zones 1 and 2 should be almost always the green two-way monolith.
 * Zones 9 and 10 are player starting zones.
-    * Treasure values: (500-3000, 25), (5000-9000, 6)
     * Terrain is corresponding to the towns chosen by the players.
      * Only a subset of objects is allowed to spawn in these zones:
         * Wood:
@@ -91,8 +90,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
             * value: 750
             * frequency: 9999
             * Max per zone: 1
-* Zones 6 and 8 are wasteland zones.
-    * Treasure values: (2500-3500, 9), (3000-5000, 16), (8000-12000, 4)
+* Zones 7 and 8 are wasteland zones.
     * Terrain is always Wasteland.
     * Treasure Class artifacts have their frequency increased to 275. At most four of them can spawn in this zone.
     * Minor Class artifacts have their frequency increased to 400, while their object value is reduced to 4000. At most four of them can spawn in this zone.
@@ -139,8 +137,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * Level 3 shrines: 2
         * Other levels of both scrolls and shrines are not limited.
     * Trailblazers, Windmills, Derricks, Prospectors, and Warehouses of any kind are disabled in this zone.
-* Zones 5 and 7 are grass zones.
-    * Treasure values: (1500-3000, 16), (3000-6000, 11), (6000-12000, 4)
+* Zones 5 and 6 are grass zones.
     * Terrain is always Grass.
     * A single Stables spawn in this zone, with object value increased to 1000.
     * Water Wheels have their value increased to 1000, and their frequency to 150.
@@ -151,7 +148,6 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * 1 Churchyard
         * 1 Dwarven Treasury
 * Zones 1 and 2 are the treasure zones.
-    * Treasure values: (3000-6000, 7), (10000-16000, 12), (12000-20000, 6)
     * Terrain is always Desert.
     * Treasure class artifacts are disabled in this zone.
     * Minor class artifacts have their frequency increased to 250, while Major class artifacts have their frequency increased to 800.

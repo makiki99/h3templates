@@ -7,6 +7,18 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.0b
+
+[Download](./One%20Minute%20Madness%202.0b.h3t)
+
+As maddening as it is, the HotA update completely shifted the way how the random maps generate... in an undocumented way. Yeah. Fun. The result of these changes is how ridicolously unstable the map rolls are, and how biased they are towards the excessively tight and poor rolls. The degree of this phenomena is unacceptable, and for this reason a mid-season emergency patch to the template to adress these issues is released.
+
+* The zone IDs have been shifted. Now, the zones 5 and 6 are the grass zones (wass 5 and 7), and zones 7 and 8 are the wasteland zones (was 6 and 8).
+* The size values of the zones have been slightly shifted around to aid getting
+* The treasure values of the desert zones have been increased.
+
+Additionally, from the documentation the exact treasure values of the zones have been removed, as they provide nothing much else than just noise for the players. People wishing to check the exact values can easily just check the template in the editor.
+
 ### Version 2.0a
 
 [Download](./One%20Minute%20Madness%202.0a.h3t)
