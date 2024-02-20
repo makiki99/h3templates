@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[Download One Minute Madness 2.0bc](./One%20Minute%20Madness%202.0c.zip)
+[Download One Minute Madness 2.0c](./One%20Minute%20Madness%202.0c.zip)
 
 [Changelog](changelog.html)
 
