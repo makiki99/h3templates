@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[Download One Minute Madness 2.0c](./One%20Minute%20Madness%202.0c.zip)
+[Download One Minute Madness 2.1](./One%20Minute%20Madness%202.1.zip)
 
 [Changelog](changelog.html)
 
@@ -16,8 +16,6 @@ title: One Minute Madness
 One Minute Madness, or 1MM for short, is (probably) the first template ever made specifically for one minute turn timers.
 
 Players start in a monsterless zone with lots of resources and mines. This zone is connected with a grass zone, and a wasteland zone. The grass zone mostly provides more resources, while the wasteland zone is focused on stat improvements for the hero. Both zones are also connected to the desert, which contains two villages of the player's faction, many creature banks, and powerful statboosters in form of major artifacts and Libraries of Enlightment. The grass zone contains a shortcut portal to the opponent's desert, providing an option of surprise attacks. The starting zones and desert are additionally connected through the town gates, granting additional mobility to the player.
-
-Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz - for massive help with playtesting this template and providing ton of valuable insight.
 
 ### Recommended settings
 * Map size: L
@@ -98,14 +96,14 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * The following creature banks spawn in this zone:
         * 1 Black Tower
         * 1 Imp Cache
-    * The Imp Cache has a reduced object value of 2500.
+    * The Imp Cache has an object value of 2500.
     * The stat boosting objects all have their frequency changed and their amount limited:
         * School of War
             * frequency 500
             * max per zone 2
         * School of Magic
             * frequency 300
-            * max per zone 2
+            * max per zone 3
         * Marletto Tower
             * frequency 700
             * max per zone 3
@@ -113,9 +111,6 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
             * frequency 700
             * max per zone 3
         * Star Axis
-            * frequency 600
-            * max per zone 3
-        * Garden of Revelation
             * frequency 600
             * max per zone 3
         * Arena
@@ -127,7 +122,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
         * Library of Enlightenment
             * Disabled
     * Additionally, the frequency of Learning Stones is increased to 700 and their max per zone is set to 5.
-    * All resources have their frequency reduced to 40, and the Random Resource object has its frequency reduced to 100.
+    * All resources have their frequency reduced to 25, and the Random Resource object has its frequency reduced to 75.
     * The amount of Spell Scrolls and Shrines spawning in this zone is limited to the following:
         * Level 1 scrolls: 3
         * Level 2 scrolls: 2
@@ -142,7 +137,7 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * A single Stables spawn in this zone, with object value increased to 1000.
     * Water Wheels have their value increased to 1000, and their frequency to 150.
     * Wood has its frequency increased to 350.
-    * A single Pandora's Box containing 5000 xp spawn in this zone.
+    * A single Pandora's Box containing 5000 xp spawns in this zone.
     * The following creature banks spawn in this zone:
         * 3 Crypts
         * 1 Churchyard
@@ -151,12 +146,14 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Terrain is always Desert.
     * Treasure class artifacts are disabled in this zone.
     * Minor class artifacts have their frequency increased to 250, while Major class artifacts have their frequency increased to 800.
-    * Two Pandora's Boxes with 10000 experience each spawn in this zone. In case of a very small desert, one or both of the boxes may be missing
+    * Two Pandora's Boxes with 10000 experience each spawn in this zone.
     * The following creature banks spawn in this zone:
         * 2 Wolf Raider Pickets
         * 2 Dragon Fly Hives
         * 3 Churchyards
-    * In addition to these, a single Redwood Observatory and two Libraries of Englightment spawn in each of these zones too. In case of a very small desert, one of the libraries may be missing.
+        * 1 Mansion
+    * Churchyards have their object value increased to 2500.
+    * In addition to these, a single Redwood Observatory and two Libraries of Englightment spawn in each of these zones too.
     * Wood and Ore cannot appear in this zone, while other magical resources and gold have their frequency reduced to 50. Campfires have their frequency reduced to 75.
     * Treasure Chests have their frequency increased to 1500.
     * At most three Tier 3 shrines can spawn in this zone.
@@ -198,8 +195,10 @@ Special thanks to the Jaskinia Behemota discord - especially Dejah and Zandarz -
     * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness,  Bow of Elven Cherrywood 
     * Minor: Charm of Eclipse, Seal of Sunset, Emblem of Cognizance, Boots of Speed, Rib Cage Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
     * Major: Pendant of Second Sight, Dead Man's Boots, Ambassador's Sash, Wayfarer's Boots, Diplomat's Ring, Statesman's Medal, Orb of Silt, Orb of the Firmament, Orb of Driving Rain, Orb of Tempestous Fire, Arms of Legion, Head of Legion, Endless Bag of Gold, Endless Purse of Gold, Pendant of Negativity, Angel Feather Arrows, Ring of Infinite Gems, Eversmoking Ring of Sulfur, Everpouring Vial of Mercury, Everflowing Crystal Cloak, Cape of Silence, Targ of the Rampaging Ogre, Cape of Velocity
-    * Relic: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Endless Sack of Gold
+    * Relic*: Angel Wings, Tome of Fire Magic, Tome of Air Magic, Tome of Water Magic, Tome of Earth Magic, Spellbinder's Hat, Endless Sack of Gold
 * Banned heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle, Leena, Rion, Verdish, Agar
-* Unbanned heroes: Kilgor, Mutare, Xeron, Frederick
+* Unbanned heroes: Kilgor, Mutare, Xeron, Murdoch
 * Banned skills: Eagle Eye, Learning.
 * Combat turn limit: 100
+
+\* - while Relic class artifacts can't spawn on the template anyways, the banlist of these artifacts is still mantained to not close off the possibilities of future updates.

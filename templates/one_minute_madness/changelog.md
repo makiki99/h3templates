@@ -7,6 +7,23 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.1
+
+[Download](./One%20Minute%20Madness%202.1.h3t)
+
+Version 2.1 is simultaneously a massive update and a tiny one at the same time. There is no revolution in vein of the 1MM 1.7, which reworked Conflux's gameplan and removed the Chain Lightning spell from the pool - and yet, compared to the previous version, it will be a whole new experience... all because I have finally found a way to make the maps generate much wider on average.
+
+* **Changed the map generation parameters in various ways to widen the map rolls.** The changes from HotA 1.7.0 took away a tool from the template makers' repertoire, and as such it took me quite a while to figure out a way to fix the template after what can only be summed up to be a bad incident. The exact changes are kinda too boring and too technical to list them there, but main one of them was massively bumping the zone sparseness value, which ended up biasing the RMG towards the “butterfly” shaped maps. The reason why this works is completely arcane to me, but at this point I'll just happily take this result.
+* **Increased the object value of 5000 XP Pandora's Boxes back to the default of 6000** on both Wasteland and Grass zones. This is a change meant mostly to force the boxes to spawn in separate object groups. The change is expanded to the Grass zone Pandora for consistency.
+* **Added a Mansion on the Desert zone.** I do think that it might be an interesting addition to the game, considering the difficulty of this creature bank and the pretty darn solid reward. It is a bit of an experiment whether it will work out to be a good addition or not, but it shouldn't break anything at this point.
+* **Changed the treasure values on both Wasteland and Desert zones.** These are just some minor adjustments to accomodate the changes above, as well as complete the "split the 5k XP Pandoras into two object groups" task.
+* **Removed the object rule for Gardens of Revelation on the Wasteland zone.** Gardens of Revelation can't spawn on Wasteland anyways, so the rule turns out to be extraneous. Yes, nobody noticed this before version 2.0c.
+* **Increased the maximum Schools of Magic on Wasteland to 3, and lowered the maximum Star Axes on Wasteland to 2.** I want to make knowledge stat a bit more accessible here without bumping the "free" spell power.
+* **Unbanned Murdoch.** Murdoch is a solid hero that can work fine as a potential main hero.
+* **Banned Frederick.** As Murdoch would be a 17th hero, someone has to go - and Frederick, as a problematic hero, is the one to go. Getting him as a second or third hero in tavern provides an insane advantage - an average of 12 automatons is basically an entire army that can singlehandedly clear even the hardest encounters on grass one after another.
+
+Additionally, I checked the current documentation and fixed a few mistakes and inconsistencies I've found there. 
+
 ### Version 2.0c
 
 [Download](./One%20Minute%20Madness%202.0c.h3t)
