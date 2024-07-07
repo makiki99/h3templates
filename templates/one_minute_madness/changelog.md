@@ -7,6 +7,17 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.2
+
+[Download](./One%20Minute%20Madness%202.2.h3t)
+
+Just before the start of the next season's signups, there is a need for a yet another update. This time, it is mostly about getting the amount of resources under control, cause at this point there were simply too many of them, and the sides of map got really unequal in this context.
+
+* Slightly lowered treasure count on Wasteland, to make it a bit less rich in gold.
+* Implemented the caps on resource piles on all zones except for the Desert ones.. The exact numbers would be just noise in the documentation and hence are ommited. The reason for this is to avoid utterly rich map rolls where you get so much gold that you can double build even the most expensive builds without literally any care for economy - and it should help at least little bit to equalize the sides of the map. Desert zones are excluded from the cap because they already have a minuscule amount of resources in them, and as such the cap is unnecessary.
+* Heavily increased treasure count on - with every single object having its count capped, this makes starting zones more stable, and provides some way to detect the effective map size.
+* Added a Nomad dwelling on the Desert zone. Players have noted the need to alleviate the necessity of Pathfinding due to increased sizes of the Desert zones - and honestly, needing to do something makes sense. I do not know if a Nomad dwelling will help much in this case, but it was a common suggestion, and after giving it a bit of thought, it does make sense to include it.
+
 ### Version 2.1
 
 [Download](./One%20Minute%20Madness%202.1.h3t)

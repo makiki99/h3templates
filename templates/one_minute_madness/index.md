@@ -42,52 +42,16 @@ Players start in a monsterless zone with lots of resources and mines. This zone 
     * The road connection between zones 1 and 2 should be almost always the green two-way monolith.
 * Zones 9 and 10 are player starting zones.
     * Terrain is corresponding to the towns chosen by the players.
-     * Only a subset of objects is allowed to spawn in these zones:
-        * Wood:
-            * value: 600
-            * frequency: 6
-        * Ore:
-            * value: 600
-            * frequency: 5
-        * Mercury, Sulfur, Crystal, Gems
-            * value: 700
-            * frequency: 4
-        * Gold
-            * value: 500
-            * frequency: 9
-        * Treasure Chest
-            * value: 1000
-            * frequency: 2
-            * Max per zone: 3
-        * Campfire
-            * value: 800
-            * frequency: 3
-        * Redwood observatory
-            * value: default
-            * frequency: 2000
-            * Max per zone: 1
-        * Level 1 dwelling
+    * A heavily limited set of objects spawns on this zone:
+        * A limited amount of Resource objects (Wood, Ore, Mercury, Sulfur, Crystal, Gems, Gold, Treasure Chests and Campfires)
+        * A maximum of 1 Redwood observatory
+        * 1 Level 1 dwelling
             * Applies only for factions other than Conflux.
-            * value: default
-            * frequency: 2000
-            * Max per zone: 1
-        * Elemental Conflux
+        * 1 Elemental Conflux
             * Applies only for Conflux.
-            * value: default
-            * frequency: 2000
-            * Max per zone: 1
-        * Churchyard
-            * value: default
-            * frequency: 2000
-            * Max per zone: 1
-        * Learning Stone
-            * value: default
-            * frequency: 2000
-            * Max per zone: 1
-        * Town Gate
-            * value: 750
-            * frequency: 9999
-            * Max per zone: 1
+        * A maximum of 1 Churchyard
+        * A maximum of 1 Learning Stone
+        * 1 Town Gate
 * Zones 7 and 8 are wasteland zones.
     * Terrain is always Wasteland.
     * Treasure Class artifacts have their frequency increased to 275. At most four of them can spawn in this zone.
@@ -131,6 +95,7 @@ Players start in a monsterless zone with lots of resources and mines. This zone 
         * Level 2 shrines: 3
         * Level 3 shrines: 2
         * Other levels of both scrolls and shrines are not limited.
+    * The amount of Resource objects that can spawn is limited on this zone.
     * Trailblazers, Windmills, Derricks, Prospectors, and Warehouses of any kind are disabled in this zone.
 * Zones 5 and 6 are grass zones.
     * Terrain is always Grass.
@@ -138,6 +103,7 @@ Players start in a monsterless zone with lots of resources and mines. This zone 
     * Water Wheels have their value increased to 1000, and their frequency to 150.
     * Wood has its frequency increased to 350.
     * A single Pandora's Box containing 5000 xp spawns in this zone.
+    * The amount of Resource objects that can spawn is limited on this zone.
     * The following creature banks spawn in this zone:
         * 3 Crypts
         * 1 Churchyard
