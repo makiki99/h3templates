@@ -7,6 +7,35 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.3
+
+[Download](./One%20Minute%20Madness%202.3.h3t)
+
+* Thanks to the new functionality in the template and map formats, the possibility of assembling any of the combination artifacts are disabled.
+* Because of the above, the following artifacts were unbanned:
+    * Targ of the Rampaging Ogre
+    * Rib Cage
+* Previously, I have implemented resource pile caps on all zones. When it comes to wood, ore and precious resources, the values seem all fine. When it comes to gold though... well, the caps were a bit too much, to say the least. For this reason the caps are changed as follows:
+    * Starting zone:
+        * Gold: max. 5 -> max. 16
+        * Campfire: max. 4 -> max. 8
+        * Random resource: max. 4 -> max. 6
+    * Grass zone:
+        * Gold: max. 13 -> max. 15
+        * Campfire: max. 8 -> max. 12
+        * Random resource: max. 8 -> max. 10
+    * Wasteland zone:
+        * Treasure Chest: max. 7 -> max. 10
+        * Gold: max. 8 -> max. 14
+        * Campfire: max. 12 -> max. 11
+        * Random resource: max. 4 -> max. 3
+* The max road block value is set as following:
+    * Grass zone: 2000
+    * Wasteland zone: 2000
+    * Desert zone: 5000
+* Unbanned First Aid, Learning and Eagle Eye. These skills have been buffed considerably - and in case of Learning, maybe even too considerably. These skills will have to be monitored down the line.
+* Did another set of technical adjustments to zone generation in vain hopes that it will make the gameplay more sane.
+
 ### Version 2.2
 
 [Download](./One%20Minute%20Madness%202.2.h3t)
