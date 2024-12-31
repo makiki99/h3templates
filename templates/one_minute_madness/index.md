@@ -166,5 +166,3 @@ Players start in a monsterless zone with lots of resources and mines. This zone 
 * Banned heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle, Leena, Rion, Verdish, Agar
 * Unbanned heroes: Kilgor, Mutare, Xeron, Murdoch
 * Combat turn limit: 100
-
-\* - while Relic class artifacts can't spawn on the template anyways, the banlist of these artifacts is still mantained to not close off the possibilities of future updates.
