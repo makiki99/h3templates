@@ -7,6 +7,12 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.3a
+
+[Download](./One%20Minute%20Madness%202.3a.h3t)
+
+* Fixed the missing combo artifact bans. Apparently HotA Crew screwed up and somehow didn't add every single combo artifact to the template editor, and as such Ironfist of the Ogre was possible to assemble. Now it is fixed.
+
 ### Version 2.3
 
 [Download](./One%20Minute%20Madness%202.3.h3t)
