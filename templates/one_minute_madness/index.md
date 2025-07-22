@@ -6,7 +6,7 @@ title: One Minute Madness
 
 ## One Minute Madness
 
-[Download One Minute Madness 2.3a](./One%20Minute%20Madness%202.3a.zip)
+[Download One Minute Madness 2.4](./One%20Minute%20Madness%202.4.zip)
 
 [Changelog](changelog.html)
 
@@ -99,7 +99,8 @@ Players start in a monsterless zone with lots of resources and mines. This zone 
     * Trailblazers, Windmills, Derricks, Prospectors, and Warehouses of any kind are disabled in this zone.
 * Zones 5 and 6 are grass zones.
     * Terrain is always Grass.
-    * A single Stables spawn in this zone, with object value increased to 1000.
+    * A single Stables spawns in this zone, with object value increased to 1000.
+    * A single War Machine Factory spawns in this zone, with object value increased to 2500.
     * Water Wheels have their value increased to 1000, and their frequency to 150.
     * Wood has its frequency increased to 350.
     * A single Pandora's Box containing 5000 xp spawns in this zone.
@@ -131,7 +132,7 @@ Players start in a monsterless zone with lots of resources and mines. This zone 
     * Obelisks
     * Town Gates
     * Quest artifacts
-    * Spell Scrolls with Fly/Water Walk/Dimension Door/Town Portal
+    * Spell Scrolls with Level 4 or 5 spells
     * Dwellings
     * Trading Posts
     * Taverns
@@ -159,10 +160,11 @@ Players start in a monsterless zone with lots of resources and mines. This zone 
     * Tier 5: Dimension Door, Fly, Magic Mirror
 * Banned Artifacts: 
     * Treasure: Ring of Vitality, Amulet of the Undertaker, Bird of Perception, Stoic Watchman, Legs of Legion, Necklace of Swiftness, Charm of Mana, Talisman of Mana, Pendant of Dispassion, Pendant of Free Will, Pendant of Life, Pendant of Death, Pendant of Total Recall, Pendant of Holiness,  Bow of Elven Cherrywood 
-    * Minor: Charm of Eclipse, Seal of Sunset, Emblem of Cognizance, Boots of Speed, Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
+    * Minor: Emblem of Cognizance, Boots of Speed, Vampire's Cowl, Loins of Legion, Torso of Legion, Bowstring of the Unicorn's Mane, Inexhaustible Cart of Lumber, Inexhaustible Cart of Ore
     * Major: Pendant of Second Sight, Dead Man's Boots, Ambassador's Sash, Wayfarer's Boots, Diplomat's Ring, Statesman's Medal, Orb of Silt, Orb of the Firmament, Orb of Driving Rain, Orb of Tempestous Fire, Arms of Legion, Head of Legion, Endless Bag of Gold, Endless Purse of Gold, Pendant of Negativity, Angel Feather Arrows, Ring of Infinite Gems, Eversmoking Ring of Sulfur, Everpouring Vial of Mercury, Everflowing Crystal Cloak, Cape of Silence, Cape of Velocity
     * Relic: can't spawn
     * Combination: all impossible to assemble
-* Banned heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle, Leena, Rion, Verdish, Agar
-* Unbanned heroes: Kilgor, Mutare, Xeron, Murdoch
+* Banned Skills: Diplomacy
+* Banned Heroes: Ufretin, Piquedram, Solmyr, Ayden, Straker, Aislinn, Deemer, Giselle, Leena, Rion, Verdish, Agar
+* Unbanned Heroes: Kilgor, Mutare, Xeron, Murdoch
 * Combat turn limit: 100

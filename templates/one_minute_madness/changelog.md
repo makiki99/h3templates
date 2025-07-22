@@ -7,6 +7,18 @@ title: HoMM3 Template Vault | One Minute Madness changelog
 
 ## One Minute Madness - Changelog
 
+### Version 2.4
+
+[Download](./One%20Minute%20Madness%202.4.h3t)
+
+Surprisingly, despite all the janky updates made by the HotA Crew in a pretty good shape right now.
+
+* Diplomacy skill is banned. It wasn't exactly that useful on 1MM - there aren't really any neutral stacks worth paying for spawning here. One could argue for buffing this skill by bumping the join percentage to 75% or 100% - but this could give an opportunity for way too many week 1 rushes. And since the recent unban of the Learning and Eagle Eye, banning Diplomacy isn't really much of a loss in the first place and banning it to improve levelling consistency a bit feels like a good idea.
+* Set a limit of Scholars on Wasteland zones to 5. This is done to limit some utterly jank generations with way too many Scholars spawning for no reason.
+* Banned Tier 4 and 5 scrolls from spawning. They can provide access to powerful spells without any real investment - even other spell cheats (shrines and pyramids) require hero to have Wisdom skill
+* Added 1 War Machine Factory to the Grass Zones, with object value set to 2500. With Artillery and First Aid buffs, using war machines become a much more interesting prospect nowadays. Sadly, on the One Minute Madness template, there are huge accessibility problems when it comes to war machines - you can have no real access to a Ballista or a First Aid Tent unless you get lucky with tavern heroes. 
+* Unbanned Seal of Sunset and Charm of Eclipse artifacts. Mages got buffed, and after removing the Chain Lightning magic heroes can still dish out a lot of damage from spells.
+
 ### Version 2.3a
 
 [Download](./One%20Minute%20Madness%202.3a.h3t)
